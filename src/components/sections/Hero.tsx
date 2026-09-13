@@ -85,12 +85,21 @@ export default function Hero() {
             >
               <Image
                 src="/images/hero.jpg"
-                alt="A student studying German at a desk with notebooks and a laptop"
+                alt="The Brandenburg Gate (Brandenburger Tor) in Berlin, the iconic gateway of Germany at golden hour"
                 fill
                 className="object-cover object-center"
                 priority
                 sizes="(max-width: 768px) 100vw, 50vw"
               />
+              {/* Landmark caption badge */}
+              <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/65 via-black/25 to-transparent p-4 sm:p-5 pt-12">
+                <span className="text-white/80 text-[0.65rem] sm:text-[0.7rem] font-medium tracking-[0.12em] uppercase block">
+                  The Gateway of Germany
+                </span>
+                <p className="text-white font-[var(--font-serif)] text-sm sm:text-base font-semibold tracking-wide mt-0.5">
+                  Brandenburger Tor · Berlin
+                </p>
+              </div>
             </motion.div>
           </div>
         </div>

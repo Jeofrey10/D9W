@@ -23,13 +23,19 @@ export default function FutureInGermany() {
       >
         <Image
           src="/images/germany.jpg"
-          alt="A charming German city street with historic architecture at golden hour"
+          alt="The famous Neuschwanstein Castle in the Bavarian Alps of Germany during golden sunrise"
           fill
           className="object-cover"
           sizes="100vw"
         />
         <div className="absolute inset-0 bg-black/55" />
       </motion.div>
+
+      {/* Aesthetic landmark location watermark */}
+      <div className="hidden sm:flex items-center gap-2 absolute bottom-6 right-8 text-white/50 text-[0.7rem] font-medium tracking-[0.1em] uppercase z-10 pointer-events-none">
+        <span className="w-1.5 h-1.5 rounded-full bg-[var(--color-accent)] inline-block" />
+        Schloss Neuschwanstein · Bavaria
+      </div>
 
       {/* Content */}
       <div className="section-container relative z-10">
