@@ -22,7 +22,7 @@ export default function FutureInGermany() {
         style={{ y: imageY }}
       >
         <Image
-          src="/images/germany.jpg"
+          src="/images/neuschwanstein-castle.jpg"
           alt="The famous Neuschwanstein Castle in the Bavarian Alps of Germany during golden sunrise"
           fill
           className="object-cover"

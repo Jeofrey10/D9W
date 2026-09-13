@@ -84,7 +84,7 @@ export default function Hero() {
               transition={{ duration: 1.2, delay: 0.3, ease: [0.22, 1, 0.36, 1] }}
             >
               <Image
-                src="/images/hero.jpg"
+                src="/images/brandenburg-gate.jpg"
                 alt="The Brandenburg Gate (Brandenburger Tor) in Berlin, the iconic gateway of Germany at golden hour"
                 fill
                 className="object-cover object-center"
