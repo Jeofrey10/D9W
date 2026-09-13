@@ -1,36 +1,95 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# D9W German Language Institution
+
+> Official website for D9W German Language Institution based in Madurai, Tamil Nadu, India.
+> "Best German Language Courses at an Affordable Price."
+
+---
+
+## Overview
+
+D9W German Language Institution is a German-language learning institute founded and taught by **Patharnisha ("Nisha")**. The institute prepares students across all Common European Framework of Reference for Languages (CEFR) levels (**A1 to C2**) for academic study, professional careers, and life in Germany through online and in-person instruction.
+
+## Features
+
+- **Asymmetric Editorial Design**: Warm ivory palette, Playfair Display + Inter typography, and fluid micro-interactions.
+- **Responsive Layout**: Specially formatted and framed for both smartphones and desktop PCs.
+- **Comprehensive CEFR Levels**: Interactive timeline covering A1 Beginner Breakthrough to C2 Mastery.
+- **4 Flexible Learning Formats**: Self-study online, individual guidance, blended learning, and intensive group instruction.
+- **Interactive Inquiries**: Form validation, direct contact options, and Google Maps embed.
+- **Accessible & Performance Optimized**: 100% static prerendering with Next.js Turbopack, iOS auto-zoom prevention, and accessible touch targets.
+
+## Tech Stack
+
+- **Framework**: Next.js 16 (Turbopack, App Router)
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS v4 & Custom CSS Design Tokens
+- **Motion**: Framer Motion
+- **Fonts**: Playfair Display (Serif) & Inter (Sans) via `next/font/google`
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
+
+- Node.js 18+ or later
+- npm, pnpm, or yarn
+
+### Installation
 
 ```bash
+# Clone the repository
+git clone https://github.com/Jeofrey10/d9w-german-institution.git
+
+# Navigate to project directory
+cd d9w-german-institution
+
+# Install dependencies
+npm install
+
+# Start local development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to explore the site.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Production Build
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+# Generate optimized static bundle
+npm run build
 
-## Learn More
+# Preview production build locally
+npm run start
+```
 
-To learn more about Next.js, take a look at the following resources:
+## Project Structure
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+├── public/
+│   └── images/              # Hero, tutor portrait, and Germany visuals
+├── src/
+│   ├── app/
+│   │   ├── globals.css      # Design tokens, section container, reset
+│   │   ├── layout.tsx       # Root layout, Google Fonts, SEO metadata
+│   │   └── page.tsx         # Assembled single-page landing site
+│   ├── components/
+│   │   ├── layout/          # Navbar & Footer
+│   │   ├── sections/        # Hero, Formats, Levels, About, Testimonials, FAQ, Contact
+│   │   └── ui/              # Reusable Buttons, Ratings, ScrollReveal
+│   └── lib/
+│       ├── constants.ts     # Business content single source of truth
+│       └── utils.ts         # Utility helpers
+├── package.json
+└── tsconfig.json
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Contact & Location
 
-## Deploy on Vercel
+- **Founder & Tutor**: Patharnisha ("Nisha")
+- **Address**: 73, Alagar Kovil Main Rd, Mellur, Tallakulam, Madurai, Tamil Nadu 625002
+- **Phone**: +91 97894 92758
+- **Email**: d9wgermanlanguage@gmail.com
+- **Instagram**: [@d9wgermanlanguage](https://www.instagram.com/d9wgermanlanguage/)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+© D9W German Language Institution. All rights reserved.
