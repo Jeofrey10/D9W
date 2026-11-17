@@ -1,0 +1,119 @@
+{
+  "rules": [
+    {
+      "suffix": "-ung",
+      "article": "die",
+      "ruleDescription": "Nouns ending in -ung are almost always feminine (over 99%). They are typically formed from verbs to denote actions or results.",
+      "reliability": "99%",
+      "examples": ["die Zeitung", "die Wohnung", "die Rechnung", "die Bedeutung"],
+      "exceptions": ["der Sprung", "der Schwung (not derived with -ung suffix, root words)"]
+    },
+    {
+      "suffix": "-heit",
+      "article": "die",
+      "ruleDescription": "Nouns ending in -heit are always feminine. They derive abstract conditions or states from adjectives.",
+      "reliability": "100%",
+      "examples": ["die Gesundheit", "die Freiheit", "die Schönheit", "die Wahrheit"],
+      "exceptions": []
+    },
+    {
+      "suffix": "-keit",
+      "article": "die",
+      "ruleDescription": "Nouns ending in -keit are always feminine. Similar to -heit, they create abstract nouns from adjectives ending in -ig, -lich, or -bar.",
+      "reliability": "100%",
+      "examples": ["die Möglichkeit", "die Pünktlichkeit", "die Einigkeit", "die Höflichkeit"],
+      "exceptions": []
+    },
+    {
+      "suffix": "-schaft",
+      "article": "die",
+      "ruleDescription": "Nouns ending in -schaft denote collective bodies, institutions, or relationships and are feminine.",
+      "reliability": "99%",
+      "examples": ["die Freundschaft", "die Gesellschaft", "die Wissenschaft", "die Mannschaft"],
+      "exceptions": ["der Schaft (meaning shaft/stem)"]
+    },
+    {
+      "suffix": "-tät",
+      "article": "die",
+      "ruleDescription": "Loanwords of Latin origin ending in -tät correspond to English -ty and are feminine.",
+      "reliability": "100%",
+      "examples": ["die Universität", "die Realität", "die Qualität", "die Aktivität"],
+      "exceptions": []
+    },
+    {
+      "suffix": "-chen",
+      "article": "das",
+      "ruleDescription": "Diminutive nouns ending in -chen are always neuter, regardless of biological gender.",
+      "reliability": "100%",
+      "examples": ["das Mädchen", "das Brötchen", "das Häuschen", "das Kaninchen"],
+      "exceptions": []
+    },
+    {
+      "suffix": "-lein",
+      "article": "das",
+      "ruleDescription": "Diminutive nouns ending in -lein are always neuter.",
+      "reliability": "100%",
+      "examples": ["das Fräulein", "das Büchlein", "das Tischlein"],
+      "exceptions": []
+    },
+    {
+      "suffix": "-ment",
+      "article": "das",
+      "ruleDescription": "Nouns of French or Latin origin ending in -ment are almost universally neuter.",
+      "reliability": "95%",
+      "examples": ["das Dokument", "das Experiment", "das Instrument", "das Medikament"],
+      "exceptions": ["der Zement", "der Moment (when meaning 'instant'; 'das Moment' means factor)"]
+    },
+    {
+      "suffix": "-um",
+      "article": "das",
+      "ruleDescription": "Scientific and institutional nouns of Latin origin ending in -um are neuter.",
+      "reliability": "100%",
+      "examples": ["das Museum", "das Zentrum", "das Datum", "das Studium"],
+      "exceptions": []
+    },
+    {
+      "suffix": "-ismus",
+      "article": "der",
+      "ruleDescription": "Nouns ending in -ismus denote movements, doctrines, or philosophies and are masculine.",
+      "reliability": "100%",
+      "examples": ["der Optimismus", "der Tourismus", "der Realismus", "der Kapitalismus"],
+      "exceptions": []
+    },
+    {
+      "suffix": "-er",
+      "article": "der",
+      "ruleDescription": "Agent nouns ending in -er denoting male professions, nationalities, or tools are predominantly masculine.",
+      "reliability": "80%",
+      "examples": ["der Lehrer", "der Computer", "der Fahrer", "der Wecker"],
+      "exceptions": ["die Butter", "die Mutter", "das Fenster", "das Wasser"]
+    },
+    {
+      "suffix": "-ling",
+      "article": "der",
+      "ruleDescription": "Nouns ending in -ling are masculine.",
+      "reliability": "99%",
+      "examples": ["der Frühling", "der Lehrling", "der Schmetterling", "der Zwilling"],
+      "exceptions": []
+    }
+  ],
+  "categories": {
+    "masculine": [
+      "Days of the week, months, and seasons (der Montag, der Januar, der Sommer)",
+      "Points of the compass and winds (der Norden, der Föhn)",
+      "Car brand names (der BMW, der Volkswagen, der Mercedes)",
+      "Alcoholic drinks, except beer (der Wein, der Wodka; exception: das Bier)"
+    ],
+    "feminine": [
+      "Cardinal numbers when used as nouns (die Eins, die Million)",
+      "Motorcycle and ship names (die Titanic, die BMW R1250)",
+      "Names of airplanes (die Boeing 747, die Lufthansa)"
+    ],
+    "neuter": [
+      "Infinitives used as nouns (das Essen, das Lernen, das Leben)",
+      "Letters of the alphabet and musical notes (das A, das B, das hohe C)",
+      "Colors used as nouns (das Blau, das Rot, das Grün)",
+      "Most metals and chemical elements (das Gold, das Silber, das Eisen; exception: der Stahl)"
+    ]
+  }
+}

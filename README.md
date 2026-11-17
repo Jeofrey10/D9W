@@ -1,95 +1,108 @@
-# D9W German Language Institution
+# D9W German Language Institute
 
-> Official website for D9W German Language Institution based in Madurai, Tamil Nadu, India.
-> "Best German Language Courses at an Affordable Price."
+> **"Learn German. Shape Your Future."**
+
+A premium, production-ready German language education web platform inspired by sophisticated Swiss and German editorial design systems. Built with React 19, TypeScript, Vite, and Tailwind CSS v4.
 
 ---
 
-## Overview
-
-D9W German Language Institution is a German-language learning institute founded and taught by **Patharnisha ("Nisha")**. The institute prepares students across all Common European Framework of Reference for Languages (CEFR) levels (**A1 to C2**) for academic study, professional careers, and life in Germany through online and in-person instruction.
-
-## Features
-
-- **Asymmetric Editorial Design**: Warm ivory palette, Playfair Display + Inter typography, and fluid micro-interactions.
-- **Responsive Layout**: Specially formatted and framed for both smartphones and desktop PCs.
-- **Comprehensive CEFR Levels**: Interactive timeline covering A1 Beginner Breakthrough to C2 Mastery.
-- **4 Flexible Learning Formats**: Self-study online, individual guidance, blended learning, and intensive group instruction.
-- **Interactive Inquiries**: Form validation, direct contact options, and Google Maps embed.
-- **Accessible & Performance Optimized**: 100% static prerendering with Next.js Turbopack, iOS auto-zoom prevention, and accessible touch targets.
-
-## Tech Stack
-
-- **Framework**: Next.js 16 (Turbopack, App Router)
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS v4 & Custom CSS Design Tokens
-- **Motion**: Framer Motion
-- **Fonts**: Playfair Display (Serif) & Inter (Sans) via `next/font/google`
-
-## Getting Started
+## 🚀 Quick Start
 
 ### Prerequisites
-
-- Node.js 18+ or later
-- npm, pnpm, or yarn
+- **Node.js:** `v22.12` or higher (verified with `v22.20.0`)
+- **Package Manager:** `npm`
 
 ### Installation
-
 ```bash
-# Clone the repository
-git clone https://github.com/Jeofrey10/d9w-german-institution.git
-
-# Navigate to project directory
-cd d9w-german-institution
+# Clone or navigate to the repository
+cd D9W-German-Hub
 
 # Install dependencies
 npm install
 
-# Start local development server
+# Start development server
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to explore the site.
-
-### Production Build
-
+### Production Build & Preview
 ```bash
-# Generate optimized static bundle
+# Typecheck and build for production
 npm run build
 
 # Preview production build locally
-npm run start
+npm run preview
 ```
-
-## Project Structure
-
-```
-├── public/
-│   └── images/              # Hero, tutor portrait, and Germany visuals
-├── src/
-│   ├── app/
-│   │   ├── globals.css      # Design tokens, section container, reset
-│   │   ├── layout.tsx       # Root layout, Google Fonts, SEO metadata
-│   │   └── page.tsx         # Assembled single-page landing site
-│   ├── components/
-│   │   ├── layout/          # Navbar & Footer
-│   │   ├── sections/        # Hero, Formats, Levels, About, Testimonials, FAQ, Contact
-│   │   └── ui/              # Reusable Buttons, Ratings, ScrollReveal
-│   └── lib/
-│       ├── constants.ts     # Business content single source of truth
-│       └── utils.ts         # Utility helpers
-├── package.json
-└── tsconfig.json
-```
-
-## Contact & Location
-
-- **Founder & Tutor**: Patharnisha ("Nisha")
-- **Address**: 73, Alagar Kovil Main Rd, Mellur, Tallakulam, Madurai, Tamil Nadu 625002
-- **Phone**: +91 97894 92758
-- **Email**: d9wgermanlanguage@gmail.com
-- **Instagram**: [@d9wgermanlanguage](https://www.instagram.com/d9wgermanlanguage/)
 
 ---
 
-© D9W German Language Institution. All rights reserved.
+## 🛠️ Technology Stack
+
+| Layer | Technology |
+| :--- | :--- |
+| **Framework** | [React 19](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/) |
+| **Build Tool** | [Vite 8](https://vite.dev/) with native ES module loading |
+| **Styling** | [Tailwind CSS v4](https://tailwindcss.com/) with `@tailwindcss/vite` |
+| **Typography** | [Manrope Variable](https://fontsource.org/fonts/manrope) (Headings) & [Inter Variable](https://fontsource.org/fonts/inter) (Body) |
+| **Routing** | [React Router DOM v7](https://reactrouter.com/) |
+| **Icons** | [Lucide React](https://lucide.dev/) |
+| **Class Merging** | `clsx` + `tailwind-merge` (`cn` helper) |
+| **Architecture** | Client-Side SPA, Local JSON Datasets, Web Speech APIs, Vercel Edge Hosting |
+
+---
+
+## 🎨 Design System & Editorial Direction
+
+The visual foundation follows Swiss/German modernist principles:
+- **Warm Ivory (`#F7F5F0`):** Natural editorial reading background.
+- **Deep Charcoal (`#171717`):** Authoritative high-contrast text and structural elements.
+- **German Red (`#C83B32`):** Primary brand accent for buttons, alerts, and grammatical gender markers.
+- **Muted Gold (`#D7B95D`):** Secondary accent for CEFR level badges and highlights.
+- **Grammatical Color Coding:** Blue for `der` (masculine), Red for `die` (feminine), Green for `das` (neuter).
+
+---
+
+## 🧭 Routing Architecture
+
+| Route | View | Description |
+| :--- | :--- | :--- |
+| `/` | `HomePage` | Full editorial homepage with 8 core sections |
+| `/courses` | `CoursesPage` | CEFR course catalog (A1, A2, B1, B2, C1) |
+| `/courses/:level` | `CourseLevelDetailPage` | Dynamic detailed curriculum view per CEFR level |
+| `/learning-hub` | `LearningHubPage` | Dashboard with search and category filters for 10 tools |
+| `/dictionary` | `DictionaryPage` | German vocabulary and lexicon lookup |
+| `/article-explorer` | `ArticleExplorerPage` | Noun gender mastering tool (`der`, `die`, `das`) |
+| `/number-trainer` | `NumberTrainerPage` | German inverted numbers and price dictation |
+| `/time-trainer` | `TimeTrainerPage` | Interactive clock for formal and informal German time |
+| `/sentence-builder` | `SentenceBuilderPage` | German syntax engine (V2 rule & TeKaMoLo order) |
+| `/listening` | `ListeningPage` | Audio dialogues and listening comprehension |
+| `/reading` | `ReadingPage` | Graded authentic German reading passages |
+| `/daily-word` | `DailyWordPage` | Wort des Tages with cultural etymology |
+| `/translator` | `TranslatorPage` | Contextual German translation companion |
+| `/study-planner` | `StudyPlannerPage` | Milestone-based CEFR exam study schedule generator |
+| `/online-classes` | `OnlineClassesPage` | Live interactive virtual micro-batches (max 14 students) |
+| `/offline-classes` | `OfflineClassesPage` | Campus immersion cohorts, smart classrooms, and library |
+| `/assessment` | `AssessmentPage` | Free 15-minute diagnostic CEFR placement test |
+| `/about` | `AboutPage` | Institutional philosophy, faculty standards, and CEFR mapping |
+| `/contact` | `ContactPage` | Admissions desk, WhatsApp support, and enquiry form |
+| `/demo` | `DemoPage` | Free 45-minute demo class reservation |
+| `*` | `NotFoundPage` | Branded 404 page with recovery navigation |
+
+---
+
+## 📚 Documentation Directory
+
+Complete architectural and operational documentation is maintained in [`docs/`](./docs/):
+- [`docs/PROJECT.md`](./docs/PROJECT.md) — Project vision, goals, and phased roadmap.
+- [`docs/DESIGN.md`](./docs/DESIGN.md) — Design tokens, typography hierarchy, and color system.
+- [`docs/ARCHITECTURE.md`](./docs/ARCHITECTURE.md) — Technical architecture, directory structure, and decisions.
+- [`docs/REQUIREMENTS.md`](./docs/REQUIREMENTS.md) — Functional and non-functional specifications.
+- [`docs/IMPLEMENTATION.md`](./docs/IMPLEMENTATION.md) — Implementation details, component patterns, and guidelines.
+- [`docs/TASKS.md`](./docs/TASKS.md) — Phased task breakdown and completion tracking.
+- [`docs/TESTING.md`](./docs/TESTING.md) — Testing strategy, responsive matrix, and acceptance criteria.
+- [`docs/DEPLOYMENT.md`](./docs/DEPLOYMENT.md) — Vercel deployment instructions and configuration.
+
+---
+
+## 📄 License & Intellectual Property
+
+&copy; D9W German Language Institute. All rights reserved.

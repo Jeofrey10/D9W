@@ -1,0 +1,353 @@
+[
+  {
+    "id": "noun-a2-001",
+    "word": "Flughafen",
+    "type": "noun",
+    "article": "der",
+    "plural": "Flughäfen",
+    "english": "Airport",
+    "pluralEnglish": "Airports",
+    "level": "A2",
+    "category": "Travel",
+    "example": {
+      "german": "Wir müssen um sechs Uhr am Flughafen sein.",
+      "english": "We must be at the airport at six o'clock."
+    },
+    "pronunciation": { "ipa": "ˈfluːkˌhaːfn̩" },
+    "tags": ["noun", "a2", "travel"]
+  },
+  {
+    "id": "noun-a2-002",
+    "word": "Bahnhof",
+    "type": "noun",
+    "article": "der",
+    "plural": "Bahnhöfe",
+    "english": "Train station",
+    "pluralEnglish": "Train stations",
+    "level": "A2",
+    "category": "Travel",
+    "example": {
+      "german": "Der Hauptbahnhof liegt im Zentrum.",
+      "english": "The main train station is in the center."
+    },
+    "pronunciation": { "ipa": "ˈbaːnˌhoːf" },
+    "tags": ["noun", "a2", "travel"]
+  },
+  {
+    "id": "noun-a2-003",
+    "word": "Fahrkarte",
+    "type": "noun",
+    "article": "die",
+    "plural": "Fahrkarten",
+    "english": "Ticket (transit)",
+    "pluralEnglish": "Tickets",
+    "level": "A2",
+    "category": "Travel",
+    "example": {
+      "german": "Ich habe eine Fahrkarte nach Frankfurt gekauft.",
+      "english": "I bought a ticket to Frankfurt."
+    },
+    "pronunciation": { "ipa": "ˈfaːɐ̯ˌkaʁtə" },
+    "tags": ["noun", "a2", "travel"]
+  },
+  {
+    "id": "noun-a2-004",
+    "word": "Krankenhaus",
+    "type": "noun",
+    "article": "das",
+    "plural": "Krankenhäuser",
+    "english": "Hospital",
+    "pluralEnglish": "Hospitals",
+    "level": "A2",
+    "category": "Health",
+    "example": {
+      "german": "Sie arbeitet als Ärztin im städtischen Krankenhaus.",
+      "english": "She works as a physician in the municipal hospital."
+    },
+    "pronunciation": { "ipa": "ˈkʁaŋkn̩ˌhaʊ̯s" },
+    "tags": ["noun", "a2", "health"]
+  },
+  {
+    "id": "noun-a2-005",
+    "word": "Arzt",
+    "type": "noun",
+    "article": "der",
+    "plural": "Ärzte",
+    "english": "Doctor (male)",
+    "pluralEnglish": "Doctors",
+    "level": "A2",
+    "category": "Health",
+    "example": {
+      "german": "Der Arzt verschreibt ein wirksames Medikament.",
+      "english": "The doctor prescribes an effective medicine."
+    },
+    "pronunciation": { "ipa": "aːɐ̯t͡st" },
+    "tags": ["noun", "a2", "health", "job"]
+  },
+  {
+    "id": "noun-a2-006",
+    "word": "Ärztin",
+    "type": "noun",
+    "article": "die",
+    "plural": "Ärztinnen",
+    "english": "Doctor (female)",
+    "pluralEnglish": "Doctors (female)",
+    "level": "A2",
+    "category": "Health",
+    "example": {
+      "german": "Die Ärztin untersucht den Patienten gründlich.",
+      "english": "The doctor examines the patient thoroughly."
+    },
+    "pronunciation": { "ipa": "ˈɛːɐ̯t͡stɪn" },
+    "tags": ["noun", "a2", "health", "job"],
+    "suffixHint": "-in"
+  },
+  {
+    "id": "noun-a2-007",
+    "word": "Gesundheit",
+    "type": "noun",
+    "article": "die",
+    "plural": "Gesundheiten",
+    "english": "Health",
+    "pluralEnglish": "Healths",
+    "level": "A2",
+    "category": "Health",
+    "example": {
+      "german": "Gesundheit ist das Wichtigste im Leben.",
+      "english": "Health is the most important thing in life."
+    },
+    "pronunciation": { "ipa": "ɡəˈzʊnthaɪ̯t" },
+    "tags": ["noun", "a2", "health"],
+    "suffixHint": "-heit"
+  },
+  {
+    "id": "noun-a2-008",
+    "word": "Freiheit",
+    "type": "noun",
+    "article": "die",
+    "plural": "Freiheiten",
+    "english": "Freedom",
+    "pluralEnglish": "Freedoms",
+    "level": "A2",
+    "category": "Society",
+    "example": {
+      "german": "Meinungsfreiheit ist ein Grundrecht.",
+      "english": "Freedom of speech is a fundamental right."
+    },
+    "pronunciation": { "ipa": "ˈfʁaɪ̯haɪ̯t" },
+    "tags": ["noun", "a2", "society"],
+    "suffixHint": "-heit"
+  },
+  {
+    "id": "noun-a2-009",
+    "word": "Möglichkeit",
+    "type": "noun",
+    "article": "die",
+    "plural": "Möglichkeiten",
+    "english": "Possibility / Opportunity",
+    "pluralEnglish": "Possibilities",
+    "level": "A2",
+    "category": "Education",
+    "example": {
+      "german": "Deutschland bietet hervorragende Möglichkeiten zum Studieren.",
+      "english": "Germany offers outstanding possibilities for studying."
+    },
+    "pronunciation": { "ipa": "ˈmøːklɪçkaɪ̯t" },
+    "tags": ["noun", "a2", "education"],
+    "suffixHint": "-keit"
+  },
+  {
+    "id": "noun-a2-010",
+    "word": "Termin",
+    "type": "noun",
+    "article": "der",
+    "plural": "Termine",
+    "english": "Appointment",
+    "pluralEnglish": "Appointments",
+    "level": "A2",
+    "category": "Daily Routine",
+    "example": {
+      "german": "Ich habe einen Termin beim Bürgeramt vereinbart.",
+      "english": "I have arranged an appointment at the citizens' office."
+    },
+    "pronunciation": { "ipa": "tɛʁˈmiːn" },
+    "tags": ["noun", "a2", "routine"]
+  },
+  {
+    "id": "noun-a2-011",
+    "word": "Erfahrung",
+    "type": "noun",
+    "article": "die",
+    "plural": "Erfahrungen",
+    "english": "Experience",
+    "pluralEnglish": "Experiences",
+    "level": "A2",
+    "category": "Work & Career",
+    "example": {
+      "german": "Praktische Erfahrung ist bei Bewerbungen sehr wichtig.",
+      "english": "Practical experience is very important for job applications."
+    },
+    "pronunciation": { "ipa": "ɛɐ̯ˈfaːʁʊŋ" },
+    "tags": ["noun", "a2", "work"],
+    "suffixHint": "-ung"
+  },
+  {
+    "id": "noun-a2-012",
+    "word": "Rechnung",
+    "type": "noun",
+    "article": "die",
+    "plural": "Rechnungen",
+    "english": "Bill / Invoice",
+    "pluralEnglish": "Bills",
+    "level": "A2",
+    "category": "Daily Routine",
+    "example": {
+      "german": "Können wir bitte die Rechnung haben?",
+      "english": "May we have the bill, please?"
+    },
+    "pronunciation": { "ipa": "ˈʁɛçnʊŋ" },
+    "tags": ["noun", "a2", "daily"],
+    "suffixHint": "-ung"
+  },
+  {
+    "id": "noun-a2-013",
+    "word": "Urlaub",
+    "type": "noun",
+    "article": "der",
+    "plural": "Urlaube",
+    "english": "Vacation / Holiday",
+    "pluralEnglish": "Vacations",
+    "level": "A2",
+    "category": "Travel",
+    "example": {
+      "german": "Im Sommer machen wir Urlaub in den Alpen.",
+      "english": "In summer we take a vacation in the Alps."
+    },
+    "pronunciation": { "ipa": "ˈuːɐ̯laʊ̯p" },
+    "tags": ["noun", "a2", "travel"]
+  },
+  {
+    "id": "noun-a2-014",
+    "word": "Wetter",
+    "type": "noun",
+    "article": "das",
+    "plural": "Wetter",
+    "english": "Weather",
+    "pluralEnglish": "Weathers",
+    "level": "A2",
+    "category": "Nature",
+    "example": {
+      "german": "Das Wetter ist heute sonnig und mild.",
+      "english": "The weather is sunny and mild today."
+    },
+    "pronunciation": { "ipa": "ˈvɛtɐ" },
+    "tags": ["noun", "a2", "nature"]
+  },
+  {
+    "id": "noun-a2-015",
+    "word": "Problem",
+    "type": "noun",
+    "article": "das",
+    "plural": "Probleme",
+    "english": "Problem",
+    "pluralEnglish": "Problems",
+    "level": "A2",
+    "category": "Daily Living",
+    "example": {
+      "german": "Das ist kein Problem, ich helfe Ihnen gern.",
+      "english": "That is no problem, I will gladly help you."
+    },
+    "pronunciation": { "ipa": "pʁoˈbleːm" },
+    "tags": ["noun", "a2", "daily"]
+  },
+  {
+    "id": "noun-a2-016",
+    "word": "Gespräch",
+    "type": "noun",
+    "article": "das",
+    "plural": "Gespräche",
+    "english": "Conversation",
+    "pluralEnglish": "Conversations",
+    "level": "A2",
+    "category": "Communication",
+    "example": {
+      "german": "Wir hatten ein sehr konstruktives Gespräch.",
+      "english": "We had a very constructive conversation."
+    },
+    "pronunciation": { "ipa": "ɡəˈʃpʁɛːç" },
+    "tags": ["noun", "a2", "communication"],
+    "suffixHint": "Ge-"
+  },
+  {
+    "id": "noun-a2-017",
+    "word": "Gebäude",
+    "type": "noun",
+    "article": "das",
+    "plural": "Gebäude",
+    "english": "Building",
+    "pluralEnglish": "Buildings",
+    "level": "A2",
+    "category": "City & Living",
+    "example": {
+      "german": "Das moderne Gebäude gehört zur Universität.",
+      "english": "The modern building belongs to the university."
+    },
+    "pronunciation": { "ipa": "ɡəˈbɔɪ̯də" },
+    "tags": ["noun", "a2", "city"],
+    "suffixHint": "Ge-"
+  },
+  {
+    "id": "noun-a2-018",
+    "word": "Ergebnis",
+    "type": "noun",
+    "article": "das",
+    "plural": "Ergebnisse",
+    "english": "Result",
+    "pluralEnglish": "Results",
+    "level": "A2",
+    "category": "Education",
+    "example": {
+      "german": "Das Prüfungsergebnis war überragend.",
+      "english": "The exam result was outstanding."
+    },
+    "pronunciation": { "ipa": "ɛɐ̯ˈɡeːpnɪs" },
+    "tags": ["noun", "a2", "education"],
+    "suffixHint": "-nis"
+  },
+  {
+    "id": "noun-a2-019",
+    "word": "Geheimnis",
+    "type": "noun",
+    "article": "das",
+    "plural": "Geheimnisse",
+    "english": "Secret",
+    "pluralEnglish": "Secrets",
+    "level": "A2",
+    "category": "Communication",
+    "example": {
+      "german": "Kannst du ein Geheimnis für dich behalten?",
+      "english": "Can you keep a secret to yourself?"
+    },
+    "pronunciation": { "ipa": "ɡəˈhaɪ̯mnɪs" },
+    "tags": ["noun", "a2", "communication"],
+    "suffixHint": "-nis"
+  },
+  {
+    "id": "noun-a2-020",
+    "word": "Frühling",
+    "type": "noun",
+    "article": "der",
+    "plural": "Frühlinge",
+    "english": "Spring (season)",
+    "pluralEnglish": "Springs",
+    "level": "A2",
+    "category": "Nature",
+    "example": {
+      "german": "Im Frühling blühen viele Blumen.",
+      "english": "In spring many flowers blossom."
+    },
+    "pronunciation": { "ipa": "ˈfʁyːlɪŋ" },
+    "tags": ["noun", "a2", "nature", "time"],
+    "suffixHint": "-ling"
+  }
+]

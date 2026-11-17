@@ -1,0 +1,325 @@
+[
+  {
+    "id": "q-01",
+    "level": "A1",
+    "category": "Vocabulary",
+    "question": "Welcher Artikel gehört zum Wort 'Haus'?",
+    "options": ["der", "die", "das", "den"],
+    "correctIndex": 2,
+    "explanation": "'Haus' ist ein neutrales Substantiv (das Haus, Plural: die Häuser)."
+  },
+  {
+    "id": "q-02",
+    "level": "A1",
+    "category": "Grammar",
+    "question": "Ergänzen Sie das Verb: 'Ich _____ jeden Morgen um sieben Uhr auf.'",
+    "options": ["stehe", "stehst", "steht", "stehen"],
+    "correctIndex": 0,
+    "explanation": "Für die 1. Person Singular ('Ich') lautet die Endung im Präsens -e ('stehe'). 'Aufstehen' ist zudem ein trennbares Verb."
+  },
+  {
+    "id": "q-03",
+    "level": "A1",
+    "category": "Functional Language",
+    "question": "Wie antwortet man höflich auf: 'Danke schön'?",
+    "options": ["Guten Tag", "Bitte sehr", "Auf Wiedersehen", "Gute Nacht"],
+    "correctIndex": 1,
+    "explanation": "Die standardmäßige höfliche Erwiderung auf 'Danke schön' ist 'Bitte sehr' oder 'Gern geschehen'."
+  },
+  {
+    "id": "q-04",
+    "level": "A1",
+    "category": "Sentence Structure",
+    "question": "Welcher Satz hat die richtige Wortstellung?",
+    "options": [
+      "Heute ich trinke Kaffee.",
+      "Heute trinke ich Kaffee.",
+      "Ich heute trinke Kaffee.",
+      "Trinke heute ich Kaffee."
+    ],
+    "correctIndex": 1,
+    "explanation": "Verb-Zweit-Regel: Steht eine Zeitangabe ('Heute') auf Position 1, folgt das konjugierte Verb ('trinke') auf Position 2, gefolgt vom Subjekt ('ich')."
+  },
+  {
+    "id": "q-05",
+    "level": "A1",
+    "category": "Vocabulary",
+    "question": "Wie heißt die Zahl 21 auf Deutsch?",
+    "options": ["zwanzigeins", "einundzwanzig", "einsundzwanzig", "zwanzigundeins"],
+    "correctIndex": 1,
+    "explanation": "Deutsche Zahlen zwischen 21 und 99 nennen die Einer zuerst ('ein-'), verbunden mit 'und', gefolgt von den Zehnern ('-zwanzig')."
+  },
+  {
+    "id": "q-06",
+    "level": "A1",
+    "category": "Grammar",
+    "question": "Ergänzen Sie den Akkusativ: 'Ich habe _____ Apfel gekauft.'",
+    "options": ["ein", "einen", "einer", "einem"],
+    "correctIndex": 1,
+    "explanation": "'Apfel' ist maskulin (der Apfel). Im Akkusativ wird aus dem unbestimmten Artikel 'ein' die Form 'einen'."
+  },
+  {
+    "id": "q-07",
+    "level": "A1",
+    "category": "Functional Language",
+    "question": "Es ist 14:30 Uhr. Wie drückt man das umgangssprachlich aus?",
+    "options": ["Es ist halb zwei.", "Es ist halb drei.", "Es ist halb vier.", "Es ist Viertel vor drei."],
+    "correctIndex": 2,
+    "explanation": "Im Deutschen bezieht sich 'halb' immer auf die kommende Stunde: 'halb drei' bedeutet 14:30 Uhr."
+  },
+  {
+    "id": "q-08",
+    "level": "A1",
+    "category": "Reading Comprehension",
+    "passage": "Öffnungszeiten der D9W Bibliothek: Montag bis Freitag von 09:00 bis 18:00 Uhr. Samstags und sonntags geschlossen.",
+    "question": "Kann man die Bibliothek am Samstag um 11:00 Uhr besuchen?",
+    "options": [
+      "Ja, sie ist täglich geöffnet.",
+      "Nein, am Wochenende ist sie geschlossen.",
+      "Ja, aber nur mit Voranmeldung.",
+      "Nur sonntags ist geschlossen."
+    ],
+    "correctIndex": 1,
+    "explanation": "Laut Text ist die Bibliothek samstags und sonntags geschlossen."
+  },
+  {
+    "id": "q-09",
+    "level": "A2",
+    "category": "Grammar",
+    "question": "Ergänzen Sie das Modalverb: 'Wir _____ heute leider länger arbeiten.'",
+    "options": ["müssen", "muss", "müsst", "musst"],
+    "correctIndex": 0,
+    "explanation": "Für die 1. Person Plural ('Wir') lautet die korrekte Konjugation von müssen 'müssen'."
+  },
+  {
+    "id": "q-10",
+    "level": "A2",
+    "category": "Vocabulary",
+    "question": "Was ist das Gegenteil von 'teuer'?",
+    "options": ["groß", "günstig", "schwierig", "pünktlich"],
+    "correctIndex": 1,
+    "explanation": "'Günstig' oder 'billig' ist das Antonym zu 'teuer'."
+  },
+  {
+    "id": "q-11",
+    "level": "A2",
+    "category": "Grammar",
+    "question": "Ergänzen Sie das Perfekt: 'Gestern _____ wir nach Hamburg gefahren.'",
+    "options": ["haben", "sind", "hatten", "waren"],
+    "correctIndex": 1,
+    "explanation": "Verben der Ortsveränderung wie 'fahren' bilden das Perfekt mit dem Hilfsverb 'sein' ('wir sind gefahren')."
+  },
+  {
+    "id": "q-12",
+    "level": "A2",
+    "category": "Grammar",
+    "question": "Wechselpräpositionen: 'Ich stelle das Buch auf _____ Tisch (Akkusativ, Wohin?).'",
+    "options": ["der", "den", "dem", "des"],
+    "correctIndex": 1,
+    "explanation": "Bei der Frage 'Wohin?' (Richtung/Bewegung) verlangt 'auf' den Akkusativ: 'den Tisch'."
+  },
+  {
+    "id": "q-13",
+    "level": "A2",
+    "category": "Sentence Structure",
+    "question": "Welche Konjunktion erfordert das Verb am Satzende?",
+    "options": ["und", "aber", "weil", "denn"],
+    "correctIndex": 2,
+    "explanation": "'weil' ist eine unterordnende Konjunktion und schickt das finite Verb ans Ende des Nebensatzes. 'und', 'aber' und 'denn' sind nebenordnend (Position 0)."
+  },
+  {
+    "id": "q-14",
+    "level": "A2",
+    "category": "Vocabulary",
+    "question": "Nomen mit der Endung '-ung' (z.B. Zeitung, Wohnung) haben welchen Artikel?",
+    "options": ["der", "die", "das", "dem"],
+    "correctIndex": 1,
+    "explanation": "Substantive auf -ung sind zu über 99% feminin ('die')."
+  },
+  {
+    "id": "q-15",
+    "level": "A2",
+    "category": "Functional Language",
+    "question": "Sie möchten beim Arzt einen Termin vereinbaren. Was sagen Sie?",
+    "options": [
+      "Ich möchte bitte einen Termin vereinbaren.",
+      "Geben Sie mir sofort die Rechnung.",
+      "Wo fährt der Zug ab?",
+      "Auf Wiedersehen, bis gestern!"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Ich möchte bitte einen Termin vereinbaren' ist die formelle Standardredewendung für Terminabsprachen."
+  },
+  {
+    "id": "q-16",
+    "level": "B1",
+    "category": "Grammar",
+    "question": "Adjektivdeklination: 'Er hilft dem _____ Mann (Dativ maskulin mit bestimmtem Artikel).'",
+    "options": ["alter", "alten", "altem", "alte"],
+    "correctIndex": 1,
+    "explanation": "Nach dem bestimmten Artikel im Dativ maskulin ('dem') endet das Adjektiv immer auf -en ('alten')."
+  },
+  {
+    "id": "q-17",
+    "level": "B1",
+    "category": "Sentence Structure",
+    "question": "Ergänzen Sie den Nebensatz: 'Er kommt nicht, obwohl er Zeit _____.'",
+    "options": ["hat", "haben", "gehabt", "hätte"],
+    "correctIndex": 0,
+    "explanation": "Nach 'obwohl' steht das konjugierte Verb im Indikativ am Ende des Nebensatzes ('hat')."
+  },
+  {
+    "id": "q-18",
+    "level": "B1",
+    "category": "Grammar",
+    "question": "TeKaMoLo: Welche Reihenfolge der Adverbiale ist natürlich?",
+    "options": [
+      "Ich fahre nach Berlin morgen mit dem Zug.",
+      "Ich fahre morgen mit dem Zug nach Berlin.",
+      "Ich fahre mit dem Zug morgen nach Berlin.",
+      "Ich fahre nach Berlin mit dem Zug morgen."
+    ],
+    "correctIndex": 1,
+    "explanation": "TeKaMoLo: Temporal ('morgen') vor Modal ('mit dem Zug') vor Lokal ('nach Berlin')."
+  },
+  {
+    "id": "q-19",
+    "level": "B1",
+    "category": "Vocabulary",
+    "question": "Welches Wort beschreibt das Verhältnis zwischen Freunden?",
+    "options": ["die Wissenschaft", "die Gesellschaft", "die Freundschaft", "die Wirtschaft"],
+    "correctIndex": 2,
+    "explanation": "'Die Freundschaft' bezeichnet die Beziehung zwischen Freunden."
+  },
+  {
+    "id": "q-20",
+    "level": "B1",
+    "category": "Grammar",
+    "question": "Konjunktiv II (Höflichkeit): '_____ Sie mir bitte helfen?'",
+    "options": ["Könnten", "Konnten", "Können", "Kann"],
+    "correctIndex": 0,
+    "explanation": "'Könnten Sie' drückt eine besonders höfliche Bitte im Konjunktiv II aus."
+  },
+  {
+    "id": "q-21",
+    "level": "B1",
+    "category": "Reading Comprehension",
+    "passage": "Für internationale Studienbewerber ist das Bestehen der TestDaF- oder DSH-Prüfung obligatorisch, sofern der Studiengang auf Deutsch unterrichtet wird.",
+    "question": "Was besagt der Text über deutschsprachige Studiengänge?",
+    "options": [
+      "Man braucht keine Sprachprüfung.",
+      "Eine deutsche Sprachprüfung ist zwingend erforderlich.",
+      "Englischprüfungen sind ausreichend.",
+      "Die Prüfung ist nur für EU-Bürger freiwillig."
+    ],
+    "correctIndex": 1,
+    "explanation": "'Obligatorisch' bedeutet verpflichtend / zwingend erforderlich."
+  },
+  {
+    "id": "q-22",
+    "level": "B1",
+    "category": "Functional Language",
+    "question": "Welche Formulierung eignet sich für den Beginn einer formellen E-Mail?",
+    "options": [
+      "Sehr geehrte Damen und Herren,",
+      "Hallo mein Lieber,",
+      "Tschüss zusammen,",
+      "Servus Kollege,"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Sehr geehrte Damen und Herren,' ist die klassische formelle deutsche Brief- und E-Mail-Anrede."
+  },
+  {
+    "id": "q-23",
+    "level": "B2",
+    "category": "Grammar",
+    "question": "Vorgangspassiv: 'Das Gebäude _____ vor zwei Jahren erbaut.'",
+    "options": ["wurde", "worden", "wird", "geworden"],
+    "correctIndex": 0,
+    "explanation": "Im Präteritum Passiv lautet die Form: Subjekt + 'wurde' + Partizip II ('erbaut')."
+  },
+  {
+    "id": "q-24",
+    "level": "B2",
+    "category": "Grammar",
+    "question": "Genitiv-Präposition: '_____ des schlechten Wetters fiel das Spiel aus.'",
+    "options": ["Wegen", "Trotzdem", "Weil", "Obwohl"],
+    "correctIndex": 0,
+    "explanation": "'Wegen' verlangt standardsprachlich den Genitiv ('des schlechten Wetters')."
+  },
+  {
+    "id": "q-25",
+    "level": "B2",
+    "category": "Vocabulary",
+    "question": "Was bedeutet die Redewendung 'jemandem die Daumen drücken'?",
+    "options": [
+      "Jemanden kritisieren",
+      "Jemandem Glück und Erfolg wünschen",
+      "Mit jemandem streiten",
+      "Jemanden fest anhalten"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Die Daumen drücken' ist eine deutsche Redewendung für 'Glück und Erfolg wünschen'."
+  },
+  {
+    "id": "q-26",
+    "level": "B2",
+    "category": "Grammar",
+    "question": "Zustandspassiv: 'Die Tür ist seit gestern _____.'",
+    "options": ["schließen", "geschlossen", "schließt", "geschlossen worden"],
+    "correctIndex": 1,
+    "explanation": "Das Zustandspassiv beschreibt das Resultat einer Handlung mit 'sein' + Partizip II ('ist geschlossen')."
+  },
+  {
+    "id": "q-27",
+    "level": "B2",
+    "category": "Reading Comprehension",
+    "passage": "Die Digitalisierung erfordert von den Unternehmen nicht nur erhebliche finanzielle Investitionen, sondern vor allem ein grundlegendes Umdenken in den betrieblichen Prozessen.",
+    "question": "Was fordert die Digitalisierung laut Passage vor allem?",
+    "options": [
+      "Ausschließlich finanzielle Mittel.",
+      "Ein tiefgreifendes Umdenken der Arbeitsabläufe.",
+      "Den Verzicht auf Investitionen.",
+      "Die Einstellung neuer Führungskräfte."
+    ],
+    "correctIndex": 1,
+    "explanation": "Laut Text ist vor allem 'ein grundlegendes Umdenken in den betrieblichen Prozessen' erforderlich."
+  },
+  {
+    "id": "q-28",
+    "level": "C1",
+    "category": "Grammar",
+    "question": "Nominalstil: Welcher Ausdruck entspricht 'weil die Preise steigen'?",
+    "options": [
+      "infolge des Preisanstiegs",
+      "ohne die Preise zu erhöhen",
+      "damit die Preise steigen",
+      "trotz fallender Preise"
+    ],
+    "correctIndex": 0,
+    "explanation": "Im gehobenen Nominalstil wird der Nebensatz 'weil die Preise steigen' prägnant durch 'infolge des Preisanstiegs' ausgedrückt."
+  },
+  {
+    "id": "q-29",
+    "level": "C1",
+    "category": "Grammar",
+    "question": "Konjunktiv I (Indirekte Rede): 'Der Minister sagte, er _____ die Reform voll unterstützen.'",
+    "options": ["werde", "wird", "wäre", "hat"],
+    "correctIndex": 0,
+    "explanation": "Für die indirekte Rede im akademischen und journalistischen Deutsch wird der Konjunktiv I ('werde') verwendet."
+  },
+  {
+    "id": "q-30",
+    "level": "C1",
+    "category": "Functional Language",
+    "question": "Welche Formulierung leitet in einer wissenschaftlichen Arbeit einen Gegenaspekt ein?",
+    "options": [
+      "Demgegenüber ist allerdings einzuwenden, dass...",
+      "Und dann sage ich auch noch...",
+      "Guten Tag, ich möchte wissen...",
+      "Auf jeden Fall ist das immer so..."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Demgegenüber ist allerdings einzuwenden, dass...' ist ein etablierter wissenschaftlicher Standard für die Einleitung von Gegenargumenten."
+  }
+]

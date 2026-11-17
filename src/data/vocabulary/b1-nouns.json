@@ -1,0 +1,270 @@
+[
+  {
+    "id": "noun-b1-001",
+    "word": "Gesellschaft",
+    "type": "noun",
+    "article": "die",
+    "plural": "Gesellschaften",
+    "english": "Society / Company",
+    "pluralEnglish": "Societies",
+    "level": "B1",
+    "category": "Society",
+    "example": {
+      "german": "Die moderne Gesellschaft steht vor vielen Herausforderungen.",
+      "english": "Modern society faces many challenges."
+    },
+    "pronunciation": { "ipa": "ɡəˈzɛlʃaft" },
+    "tags": ["noun", "b1", "society"],
+    "suffixHint": "-schaft"
+  },
+  {
+    "id": "noun-b1-002",
+    "word": "Freundschaft",
+    "type": "noun",
+    "article": "die",
+    "plural": "Freundschaften",
+    "english": "Friendship",
+    "pluralEnglish": "Friendships",
+    "level": "B1",
+    "category": "People",
+    "example": {
+      "german": "Echte Freundschaft basiert auf gegenseitigem Vertrauen.",
+      "english": "True friendship is based on mutual trust."
+    },
+    "pronunciation": { "ipa": "ˈfʁɔɪ̯ntʃaft" },
+    "tags": ["noun", "b1", "people"],
+    "suffixHint": "-schaft"
+  },
+  {
+    "id": "noun-b1-003",
+    "word": "Wissenschaft",
+    "type": "noun",
+    "article": "die",
+    "plural": "Wissenschaften",
+    "english": "Science / Academia",
+    "pluralEnglish": "Sciences",
+    "level": "B1",
+    "category": "Education",
+    "example": {
+      "german": "Die Wissenschaft liefert entscheidende Erkenntnisse.",
+      "english": "Science delivers crucial insights."
+    },
+    "pronunciation": { "ipa": "ˈvɪsn̩ʃaft" },
+    "tags": ["noun", "b1", "education"],
+    "suffixHint": "-schaft"
+  },
+  {
+    "id": "noun-b1-004",
+    "word": "Universität",
+    "type": "noun",
+    "article": "die",
+    "plural": "Universitäten",
+    "english": "University",
+    "pluralEnglish": "Universities",
+    "level": "B1",
+    "category": "Education",
+    "example": {
+      "german": "Er studiert Informatik an der Technischen Universität München.",
+      "english": "He studies computer science at the Technical University of Munich."
+    },
+    "pronunciation": { "ipa": "univɛʁziˈtɛːt" },
+    "tags": ["noun", "b1", "education"],
+    "suffixHint": "-tät"
+  },
+  {
+    "id": "noun-b1-005",
+    "word": "Realität",
+    "type": "noun",
+    "article": "die",
+    "plural": "Realitäten",
+    "english": "Reality",
+    "pluralEnglish": "Realities",
+    "level": "B1",
+    "category": "Philosophy",
+    "example": {
+      "german": "Man muss der Realität mutig ins Auge blicken.",
+      "english": "One must face reality courageously."
+    },
+    "pronunciation": { "ipa": "ʁealiˈtɛːt" },
+    "tags": ["noun", "b1", "philosophy"],
+    "suffixHint": "-tät"
+  },
+  {
+    "id": "noun-b1-006",
+    "word": "Optimismus",
+    "type": "noun",
+    "article": "der",
+    "plural": "Optimismen",
+    "english": "Optimism",
+    "pluralEnglish": "Optimisms",
+    "level": "B1",
+    "category": "Philosophy",
+    "example": {
+      "german": "Sein Optimismus hat das gesamte Team motiviert.",
+      "english": "His optimism motivated the entire team."
+    },
+    "pronunciation": { "ipa": "ɔptiˈmɪsmʊs" },
+    "tags": ["noun", "b1", "philosophy"],
+    "suffixHint": "-ismus"
+  },
+  {
+    "id": "noun-b1-007",
+    "word": "Tourismus",
+    "type": "noun",
+    "article": "der",
+    "plural": "Tourismen",
+    "english": "Tourism",
+    "pluralEnglish": "Tourisms",
+    "level": "B1",
+    "category": "Travel",
+    "example": {
+      "german": "Der Tourismus ist ein wichtiger Wirtschaftszweig.",
+      "english": "Tourism is an important economic sector."
+    },
+    "pronunciation": { "ipa": "tuˈʁɪsmʊs" },
+    "tags": ["noun", "b1", "travel"],
+    "suffixHint": "-ismus"
+  },
+  {
+    "id": "noun-b1-008",
+    "word": "Dokument",
+    "type": "noun",
+    "article": "das",
+    "plural": "Dokumente",
+    "english": "Document",
+    "pluralEnglish": "Documents",
+    "level": "B1",
+    "category": "Work & Career",
+    "example": {
+      "german": "Bitte reichen Sie alle geforderten Dokumente rechtzeitig ein.",
+      "english": "Please submit all required documents in time."
+    },
+    "pronunciation": { "ipa": "dokuˈmɛnt" },
+    "tags": ["noun", "b1", "work"],
+    "suffixHint": "-ment"
+  },
+  {
+    "id": "noun-b1-009",
+    "word": "Experiment",
+    "type": "noun",
+    "article": "das",
+    "plural": "Experimente",
+    "english": "Experiment",
+    "pluralEnglish": "Experiments",
+    "level": "B1",
+    "category": "Education",
+    "example": {
+      "german": "Das Experiment im Labor war erfolgreich.",
+      "english": "The experiment in the laboratory was successful."
+    },
+    "pronunciation": { "ipa": "ɛkspeʁiˈmɛnt" },
+    "tags": ["noun", "b1", "education"],
+    "suffixHint": "-ment"
+  },
+  {
+    "id": "noun-b1-010",
+    "word": "Museum",
+    "type": "noun",
+    "article": "das",
+    "plural": "Museen",
+    "english": "Museum",
+    "pluralEnglish": "Museums",
+    "level": "B1",
+    "category": "Culture",
+    "example": {
+      "german": "Am Sonntag besuchen wir das Deutsche Museum.",
+      "english": "On Sunday we will visit the Deutsches Museum."
+    },
+    "pronunciation": { "ipa": "muˈzeːʊm" },
+    "tags": ["noun", "b1", "culture"],
+    "suffixHint": "-um"
+  },
+  {
+    "id": "noun-b1-011",
+    "word": "Zentrum",
+    "type": "noun",
+    "article": "das",
+    "plural": "Zentren",
+    "english": "Center",
+    "pluralEnglish": "Centers",
+    "level": "B1",
+    "category": "City & Living",
+    "example": {
+      "german": "Das Institut befindet sich direkt im Zentrum.",
+      "english": "The institute is located directly in the center."
+    },
+    "pronunciation": { "ipa": "ˈt͡sɛntʁʊm" },
+    "tags": ["noun", "b1", "city"],
+    "suffixHint": "-um"
+  },
+  {
+    "id": "noun-b1-012",
+    "word": "Bedeutung",
+    "type": "noun",
+    "article": "die",
+    "plural": "Bedeutungen",
+    "english": "Meaning / Significance",
+    "pluralEnglish": "Meanings",
+    "level": "B1",
+    "category": "Communication",
+    "example": {
+      "german": "Welche Bedeutung hat dieses deutsche Wort?",
+      "english": "What meaning does this German word have?"
+    },
+    "pronunciation": { "ipa": "bəˈdɔɪ̯tʊŋ" },
+    "tags": ["noun", "b1", "communication"],
+    "suffixHint": "-ung"
+  },
+  {
+    "id": "noun-b1-013",
+    "word": "Entscheidung",
+    "type": "noun",
+    "article": "die",
+    "plural": "Entscheidungen",
+    "english": "Decision",
+    "pluralEnglish": "Decisions",
+    "level": "B1",
+    "category": "Work & Career",
+    "example": {
+      "german": "Das war eine mutige und richtige Entscheidung.",
+      "english": "That was a brave and correct decision."
+    },
+    "pronunciation": { "ipa": "ɛntˈʃaɪ̯dʊŋ" },
+    "tags": ["noun", "b1", "work"],
+    "suffixHint": "-ung"
+  },
+  {
+    "id": "noun-b1-014",
+    "word": "Umwelt",
+    "type": "noun",
+    "article": "die",
+    "plural": "Umwelten",
+    "english": "Environment",
+    "pluralEnglish": "Environments",
+    "level": "B1",
+    "category": "Nature",
+    "example": {
+      "german": "Der Schutz der Umwelt geht uns alle an.",
+      "english": "Protecting the environment concerns all of us."
+    },
+    "pronunciation": { "ipa": "ˈʊmvɛlt" },
+    "tags": ["noun", "b1", "nature"]
+  },
+  {
+    "id": "noun-b1-015",
+    "word": "Zukunft",
+    "type": "noun",
+    "article": "die",
+    "plural": "Zukünfte",
+    "english": "Future",
+    "pluralEnglish": "Futures",
+    "level": "B1",
+    "category": "Philosophy",
+    "example": {
+      "german": "Deutsch lernen eröffnet Wege in eine erfolgreiche Zukunft.",
+      "english": "Learning German opens paths into a successful future."
+    },
+    "pronunciation": { "ipa": "ˈt͡suːkʊnft" },
+    "tags": ["noun", "b1", "philosophy"]
+  }
+]

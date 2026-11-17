@@ -1,0 +1,287 @@
+[
+  {
+    "id": "adj-001",
+    "word": "groß",
+    "type": "adjective",
+    "english": "big / tall",
+    "level": "A1",
+    "category": "Descriptions",
+    "example": {
+      "german": "Berlin ist eine sehr große Stadt.",
+      "english": "Berlin is a very big city."
+    },
+    "pronunciation": { "ipa": "ɡʁoːs" },
+    "tags": ["adjective", "a1", "description"],
+    "adjectiveDetails": {
+      "comparative": "größer",
+      "superlative": "am größten",
+      "opposite": "klein"
+    }
+  },
+  {
+    "id": "adj-002",
+    "word": "klein",
+    "type": "adjective",
+    "english": "small / short",
+    "level": "A1",
+    "category": "Descriptions",
+    "example": {
+      "german": "Die Wohnung ist klein, aber sehr gemütlich.",
+      "english": "The apartment is small, but very cozy."
+    },
+    "pronunciation": { "ipa": "klaɪ̯n" },
+    "tags": ["adjective", "a1", "description"],
+    "adjectiveDetails": {
+      "comparative": "kleiner",
+      "superlative": "am kleinsten",
+      "opposite": "groß"
+    }
+  },
+  {
+    "id": "adj-003",
+    "word": "gut",
+    "type": "adjective",
+    "english": "good",
+    "level": "A1",
+    "category": "Qualities",
+    "example": {
+      "german": "Das war eine gute Idee.",
+      "english": "That was a good idea."
+    },
+    "pronunciation": { "ipa": "ɡuːt" },
+    "tags": ["adjective", "a1", "quality"],
+    "adjectiveDetails": {
+      "comparative": "besser",
+      "superlative": "am besten",
+      "opposite": "schlecht"
+    }
+  },
+  {
+    "id": "adj-004",
+    "word": "schlecht",
+    "type": "adjective",
+    "english": "bad / poor",
+    "level": "A1",
+    "category": "Qualities",
+    "example": {
+      "german": "Das Wetter war gestern leider sehr schlecht.",
+      "english": "Unfortunately the weather was very bad yesterday."
+    },
+    "pronunciation": { "ipa": "ʃlɛçt" },
+    "tags": ["adjective", "a1", "quality"],
+    "adjectiveDetails": {
+      "comparative": "schlechter",
+      "superlative": "am schlechtesten",
+      "opposite": "gut"
+    }
+  },
+  {
+    "id": "adj-005",
+    "word": "schnell",
+    "type": "adjective",
+    "english": "fast / quick",
+    "level": "A1",
+    "category": "Speed",
+    "example": {
+      "german": "Der ICE-Zug ist besonders schnell.",
+      "english": "The ICE train is especially fast."
+    },
+    "pronunciation": { "ipa": "ʃnɛl" },
+    "tags": ["adjective", "a1", "speed"],
+    "adjectiveDetails": {
+      "comparative": "schneller",
+      "superlative": "am schnellsten",
+      "opposite": "langsam"
+    }
+  },
+  {
+    "id": "adj-006",
+    "word": "langsam",
+    "type": "adjective",
+    "english": "slow",
+    "level": "A1",
+    "category": "Speed",
+    "example": {
+      "german": "Bitte sprechen Sie etwas langsamer.",
+      "english": "Please speak a little slower."
+    },
+    "pronunciation": { "ipa": "ˈlaŋzaːm" },
+    "tags": ["adjective", "a1", "speed"],
+    "adjectiveDetails": {
+      "comparative": "langsamer",
+      "superlative": "am langsamsten",
+      "opposite": "schnell"
+    }
+  },
+  {
+    "id": "adj-007",
+    "word": "neu",
+    "type": "adjective",
+    "english": "new",
+    "level": "A1",
+    "category": "State",
+    "example": {
+      "german": "Ich habe einen neuen Laptop gekauft.",
+      "english": "I bought a new laptop."
+    },
+    "pronunciation": { "ipa": "nɔɪ̯" },
+    "tags": ["adjective", "a1", "state"],
+    "adjectiveDetails": {
+      "comparative": "neuer",
+      "superlative": "am neuesten",
+      "opposite": "alt"
+    }
+  },
+  {
+    "id": "adj-008",
+    "word": "alt",
+    "type": "adjective",
+    "english": "old",
+    "level": "A1",
+    "category": "State",
+    "example": {
+      "german": "Heidelberg hat eine berühmte alte Brücke.",
+      "english": "Heidelberg has a famous old bridge."
+    },
+    "pronunciation": { "ipa": "alt" },
+    "tags": ["adjective", "a1", "state"],
+    "adjectiveDetails": {
+      "comparative": "älter",
+      "superlative": "am ältesten",
+      "opposite": "neu / jung"
+    }
+  },
+  {
+    "id": "adj-009",
+    "word": "teuer",
+    "type": "adjective",
+    "english": "expensive",
+    "level": "A1",
+    "category": "Price",
+    "example": {
+      "german": "Wohnungen in München sind oft teuer.",
+      "english": "Apartments in Munich are often expensive."
+    },
+    "pronunciation": { "ipa": "ˈtɔɪ̯ɐ" },
+    "tags": ["adjective", "a1", "price"],
+    "adjectiveDetails": {
+      "comparative": "teurer",
+      "superlative": "am teuersten",
+      "opposite": "günstig / billig"
+    }
+  },
+  {
+    "id": "adj-010",
+    "word": "günstig",
+    "type": "adjective",
+    "english": "affordable / favorable",
+    "level": "A1",
+    "category": "Price",
+    "example": {
+      "german": "Das Deutschlandticket ist eine günstige Monatskarte.",
+      "english": "The Deutschlandticket is an affordable monthly transit ticket."
+    },
+    "pronunciation": { "ipa": "ˈɡʏnstɪç" },
+    "tags": ["adjective", "a1", "price"],
+    "adjectiveDetails": {
+      "comparative": "günstiger",
+      "superlative": "am günstigsten",
+      "opposite": "teuer"
+    }
+  },
+  {
+    "id": "adj-011",
+    "word": "schön",
+    "type": "adjective",
+    "english": "beautiful / nice",
+    "level": "A1",
+    "category": "Aesthetics",
+    "example": {
+      "german": "Wir wünschen Ihnen einen schönen Tag!",
+      "english": "We wish you a wonderful day!"
+    },
+    "pronunciation": { "ipa": "ʃøːn" },
+    "tags": ["adjective", "a1", "aesthetics"],
+    "adjectiveDetails": {
+      "comparative": "schöner",
+      "superlative": "am schönsten",
+      "opposite": "hässlich"
+    }
+  },
+  {
+    "id": "adj-012",
+    "word": "einfach",
+    "type": "adjective",
+    "english": "simple / easy",
+    "level": "A1",
+    "category": "Difficulty",
+    "example": {
+      "german": "Mit der richtigen Methode ist Deutsch ganz einfach.",
+      "english": "With the right method, German is quite simple."
+    },
+    "pronunciation": { "ipa": "ˈaɪ̯nfaχ" },
+    "tags": ["adjective", "a1", "difficulty"],
+    "adjectiveDetails": {
+      "comparative": "einfacher",
+      "superlative": "am einfachsten",
+      "opposite": "schwierig"
+    }
+  },
+  {
+    "id": "adj-013",
+    "word": "schwierig",
+    "type": "adjective",
+    "english": "difficult / hard",
+    "level": "A1",
+    "category": "Difficulty",
+    "example": {
+      "german": "Die deutschen Artikelregeln sind anfangs schwierig.",
+      "english": "German article rules are difficult initially."
+    },
+    "pronunciation": { "ipa": "ˈʃviːʁɪç" },
+    "tags": ["adjective", "a1", "difficulty"],
+    "adjectiveDetails": {
+      "comparative": "schwieriger",
+      "superlative": "am schwierigsten",
+      "opposite": "einfach"
+    }
+  },
+  {
+    "id": "adj-014",
+    "word": "wichtig",
+    "type": "adjective",
+    "english": "important",
+    "level": "A1",
+    "category": "Qualities",
+    "example": {
+      "german": "Pünktlichkeit ist in Deutschland sehr wichtig.",
+      "english": "Punctuality is very important in Germany."
+    },
+    "pronunciation": { "ipa": "ˈvɪçtɪç" },
+    "tags": ["adjective", "a1", "qualities"],
+    "adjectiveDetails": {
+      "comparative": "wichtiger",
+      "superlative": "am wichtigsten",
+      "opposite": "unwichtig"
+    }
+  },
+  {
+    "id": "adj-015",
+    "word": "pünktlich",
+    "type": "adjective",
+    "english": "punctual / on time",
+    "level": "A1",
+    "category": "Time & Habits",
+    "example": {
+      "german": "Bitte seien Sie pünktlich zum Unterricht da.",
+      "english": "Please be on time for the lesson."
+    },
+    "pronunciation": { "ipa": "ˈpʏŋktlɪç" },
+    "tags": ["adjective", "a1", "habits"],
+    "adjectiveDetails": {
+      "comparative": "pünktlicher",
+      "superlative": "am pünktlichsten",
+      "opposite": "unpünktlich"
+    }
+  }
+]

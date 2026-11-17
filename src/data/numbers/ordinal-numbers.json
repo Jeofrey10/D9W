@@ -1,0 +1,17 @@
+[
+  { "number": 1, "ordinal": "erste", "english": "first", "note": "irregular stem: erste" },
+  { "number": 2, "ordinal": "zweite", "english": "second" },
+  { "number": 3, "ordinal": "dritte", "english": "third", "note": "irregular stem: dritte" },
+  { "number": 4, "ordinal": "vierte", "english": "fourth" },
+  { "number": 5, "ordinal": "fünfte", "english": "fifth" },
+  { "number": 6, "ordinal": "sechste", "english": "sixth" },
+  { "number": 7, "ordinal": "siebte", "english": "seventh", "note": "irregular stem: siebte" },
+  { "number": 8, "ordinal": "achte", "english": "eighth", "note": "acht + e (no double t)" },
+  { "number": 9, "ordinal": "neunte", "english": "ninth" },
+  { "number": 10, "ordinal": "zehnte", "english": "tenth" },
+  { "number": 19, "ordinal": "neunzehnte", "english": "nineteenth" },
+  { "number": 20, "ordinal": "zwanzigste", "english": "twentieth", "note": "20 onwards add -ste" },
+  { "number": 21, "ordinal": "einundzwanzigste", "english": "twenty-first" },
+  { "number": 30, "ordinal": "dreißigste", "english": "thirtieth" },
+  { "number": 100, "ordinal": "hundertste", "english": "hundredth" }
+]

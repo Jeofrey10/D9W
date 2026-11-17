@@ -1,0 +1,404 @@
+[
+  {
+    "id": "verb-001",
+    "word": "sein",
+    "type": "verb",
+    "english": "to be",
+    "level": "A1",
+    "category": "Basic Verbs",
+    "example": {
+      "german": "Ich bin Student in Berlin.",
+      "english": "I am a student in Berlin."
+    },
+    "pronunciation": { "ipa": "zaɪ̯n" },
+    "tags": ["verb", "a1", "auxiliary", "irregular"],
+    "verbDetails": {
+      "infinitive": "sein",
+      "present3rd": "er/sie/es ist",
+      "pastPerfekt": "ist gewesen",
+      "isIrregular": true
+    }
+  },
+  {
+    "id": "verb-002",
+    "word": "haben",
+    "type": "verb",
+    "english": "to have",
+    "level": "A1",
+    "category": "Basic Verbs",
+    "example": {
+      "german": "Wir haben heute Unterricht.",
+      "english": "We have class today."
+    },
+    "pronunciation": { "ipa": "ˈhaːbn̩" },
+    "tags": ["verb", "a1", "auxiliary", "irregular"],
+    "verbDetails": {
+      "infinitive": "haben",
+      "present3rd": "er/sie/es hat",
+      "pastPerfekt": "hat gehabt",
+      "isIrregular": true
+    }
+  },
+  {
+    "id": "verb-003",
+    "word": "lernen",
+    "type": "verb",
+    "english": "to learn / to study",
+    "level": "A1",
+    "category": "Education",
+    "example": {
+      "german": "Ich lerne jeden Tag Deutsch.",
+      "english": "I study German every day."
+    },
+    "pronunciation": { "ipa": "ˈlɛʁnən" },
+    "tags": ["verb", "a1", "education", "regular"],
+    "verbDetails": {
+      "infinitive": "lernen",
+      "present3rd": "er/sie/es lernt",
+      "pastPerfekt": "hat gelernt",
+      "isIrregular": false
+    }
+  },
+  {
+    "id": "verb-004",
+    "word": "sprechen",
+    "type": "verb",
+    "english": "to speak",
+    "level": "A1",
+    "category": "Communication",
+    "example": {
+      "german": "Sprechen Sie Englisch oder Deutsch?",
+      "english": "Do you speak English or German?"
+    },
+    "pronunciation": { "ipa": "ˈʃpʁɛçn̩" },
+    "tags": ["verb", "a1", "communication", "irregular"],
+    "verbDetails": {
+      "infinitive": "sprechen",
+      "present3rd": "er/sie/es spricht",
+      "pastPerfekt": "hat gesprochen",
+      "isIrregular": true
+    }
+  },
+  {
+    "id": "verb-005",
+    "word": "wohnen",
+    "type": "verb",
+    "english": "to live / to reside",
+    "level": "A1",
+    "category": "Home",
+    "example": {
+      "german": "Meine Familie wohnt in München.",
+      "english": "My family lives in Munich."
+    },
+    "pronunciation": { "ipa": "ˈvoːnən" },
+    "tags": ["verb", "a1", "home", "regular"],
+    "verbDetails": {
+      "infinitive": "wohnen",
+      "present3rd": "er/sie/es wohnt",
+      "pastPerfekt": "hat gewohnt",
+      "isIrregular": false
+    }
+  },
+  {
+    "id": "verb-006",
+    "word": "arbeiten",
+    "type": "verb",
+    "english": "to work",
+    "level": "A1",
+    "category": "Work & Career",
+    "example": {
+      "german": "Er arbeitet als Ingenieur bei Bosch.",
+      "english": "He works as an engineer at Bosch."
+    },
+    "pronunciation": { "ipa": "ˈaʁbaɪ̯tn̩" },
+    "tags": ["verb", "a1", "work", "regular"],
+    "verbDetails": {
+      "infinitive": "arbeiten",
+      "present3rd": "er/sie/es arbeitet",
+      "pastPerfekt": "hat gearbeitet",
+      "isIrregular": false
+    }
+  },
+  {
+    "id": "verb-007",
+    "word": "kommen",
+    "type": "verb",
+    "english": "to come",
+    "level": "A1",
+    "category": "Basic Verbs",
+    "example": {
+      "german": "Woher kommen Sie? – Ich komme aus Indien.",
+      "english": "Where do you come from? – I come from India."
+    },
+    "pronunciation": { "ipa": "ˈkɔmən" },
+    "tags": ["verb", "a1", "basic", "irregular"],
+    "verbDetails": {
+      "infinitive": "kommen",
+      "present3rd": "er/sie/es kommt",
+      "pastPerfekt": "ist gekommen",
+      "isIrregular": true
+    }
+  },
+  {
+    "id": "verb-008",
+    "word": "gehen",
+    "type": "verb",
+    "english": "to go / to walk",
+    "level": "A1",
+    "category": "Movement",
+    "example": {
+      "german": "Wir gehen heute ins Museum.",
+      "english": "We are going to the museum today."
+    },
+    "pronunciation": { "ipa": "ˈɡeːən" },
+    "tags": ["verb", "a1", "movement", "irregular"],
+    "verbDetails": {
+      "infinitive": "gehen",
+      "present3rd": "er/sie/es geht",
+      "pastPerfekt": "ist gegangen",
+      "isIrregular": true
+    }
+  },
+  {
+    "id": "verb-009",
+    "word": "fahren",
+    "type": "verb",
+    "english": "to drive / to travel",
+    "level": "A1",
+    "category": "Travel",
+    "example": {
+      "german": "Der Zug fährt um neun Uhr ab.",
+      "english": "The train departs at nine o'clock."
+    },
+    "pronunciation": { "ipa": "ˈfaːʁən" },
+    "tags": ["verb", "a1", "travel", "irregular"],
+    "verbDetails": {
+      "infinitive": "fahren",
+      "present3rd": "er/sie/es fährt",
+      "pastPerfekt": "ist gefahren",
+      "isIrregular": true
+    }
+  },
+  {
+    "id": "verb-010",
+    "word": "lesen",
+    "type": "verb",
+    "english": "to read",
+    "level": "A1",
+    "category": "Education",
+    "example": {
+      "german": "Sie liest gern deutsche Zeitungen.",
+      "english": "She likes reading German newspapers."
+    },
+    "pronunciation": { "ipa": "ˈleːzn̩" },
+    "tags": ["verb", "a1", "education", "irregular"],
+    "verbDetails": {
+      "infinitive": "lesen",
+      "present3rd": "er/sie/es liest",
+      "pastPerfekt": "hat gelesen",
+      "isIrregular": true
+    }
+  },
+  {
+    "id": "verb-011",
+    "word": "schreiben",
+    "type": "verb",
+    "english": "to write",
+    "level": "A1",
+    "category": "Communication",
+    "example": {
+      "german": "Ich schreibe eine E-Mail an das D9W Institut.",
+      "english": "I am writing an email to the D9W Institute."
+    },
+    "pronunciation": { "ipa": "ˈʃʁaɪ̯bn̩" },
+    "tags": ["verb", "a1", "communication", "irregular"],
+    "verbDetails": {
+      "infinitive": "schreiben",
+      "present3rd": "er/sie/es schreibt",
+      "pastPerfekt": "hat geschrieben",
+      "isIrregular": true
+    }
+  },
+  {
+    "id": "verb-012",
+    "word": "essen",
+    "type": "verb",
+    "english": "to eat",
+    "level": "A1",
+    "category": "Food & Drink",
+    "example": {
+      "german": "Was isst du zum Frühstück?",
+      "english": "What do you eat for breakfast?"
+    },
+    "pronunciation": { "ipa": "ˈɛsn̩" },
+    "tags": ["verb", "a1", "food", "irregular"],
+    "verbDetails": {
+      "infinitive": "essen",
+      "present3rd": "er/sie/es isst",
+      "pastPerfekt": "hat gegessen",
+      "isIrregular": true
+    }
+  },
+  {
+    "id": "verb-013",
+    "word": "trinken",
+    "type": "verb",
+    "english": "to drink",
+    "level": "A1",
+    "category": "Food & Drink",
+    "example": {
+      "german": "Ich trinke am liebsten Mineralwasser.",
+      "english": "I prefer drinking sparkling mineral water."
+    },
+    "pronunciation": { "ipa": "ˈtʁɪŋkn̩" },
+    "tags": ["verb", "a1", "drink", "irregular"],
+    "verbDetails": {
+      "infinitive": "trinken",
+      "present3rd": "er/sie/es trinkt",
+      "pastPerfekt": "hat getrunken",
+      "isIrregular": true
+    }
+  },
+  {
+    "id": "verb-014",
+    "word": "kaufen",
+    "type": "verb",
+    "english": "to buy",
+    "level": "A1",
+    "category": "Daily Living",
+    "example": {
+      "german": "Wir kaufen frisches Obst auf dem Markt.",
+      "english": "We buy fresh fruit at the market."
+    },
+    "pronunciation": { "ipa": "ˈkaʊ̯fn̩" },
+    "tags": ["verb", "a1", "daily", "regular"],
+    "verbDetails": {
+      "infinitive": "kaufen",
+      "present3rd": "er/sie/es kauft",
+      "pastPerfekt": "hat gekauft",
+      "isIrregular": false
+    }
+  },
+  {
+    "id": "verb-015",
+    "word": "einkaufen",
+    "type": "verb",
+    "english": "to go shopping",
+    "level": "A1",
+    "category": "Daily Living",
+    "example": {
+      "german": "Samstags kaufe ich im Supermarkt ein.",
+      "english": "On Saturdays I go shopping at the supermarket."
+    },
+    "pronunciation": { "ipa": "ˈaɪ̯nˌkaʊ̯fn̩" },
+    "tags": ["verb", "a1", "separable"],
+    "verbDetails": {
+      "infinitive": "einkaufen",
+      "present3rd": "er/sie/es kauft ein",
+      "pastPerfekt": "hat eingekauft",
+      "isSeparable": true,
+      "isIrregular": false
+    }
+  },
+  {
+    "id": "verb-016",
+    "word": "aufstehen",
+    "type": "verb",
+    "english": "to get up / to stand up",
+    "level": "A1",
+    "category": "Daily Routine",
+    "example": {
+      "german": "Ich stehe jeden Morgen um sieben Uhr auf.",
+      "english": "I get up every morning at seven o'clock."
+    },
+    "pronunciation": { "ipa": "ˈaʊ̯fˌʃteːən" },
+    "tags": ["verb", "a1", "separable", "routine"],
+    "verbDetails": {
+      "infinitive": "aufstehen",
+      "present3rd": "er/sie/es steht auf",
+      "pastPerfekt": "ist aufgestanden",
+      "isSeparable": true,
+      "isIrregular": true
+    }
+  },
+  {
+    "id": "verb-017",
+    "word": "verstehen",
+    "type": "verb",
+    "english": "to understand",
+    "level": "A1",
+    "category": "Communication",
+    "example": {
+      "german": "Ich verstehe den Satz ganz genau.",
+      "english": "I understand the sentence completely."
+    },
+    "pronunciation": { "ipa": "fɛɐ̯ˈʃteːən" },
+    "tags": ["verb", "a1", "communication", "irregular"],
+    "verbDetails": {
+      "infinitive": "verstehen",
+      "present3rd": "er/sie/es versteht",
+      "pastPerfekt": "hat verstanden",
+      "isIrregular": true
+    }
+  },
+  {
+    "id": "verb-018",
+    "word": "können",
+    "type": "verb",
+    "english": "can / to be able to",
+    "level": "A1",
+    "category": "Modal Verbs",
+    "example": {
+      "german": "Können Sie das bitte wiederholen?",
+      "english": "Can you please repeat that?"
+    },
+    "pronunciation": { "ipa": "ˈkœnən" },
+    "tags": ["verb", "a1", "modal", "irregular"],
+    "verbDetails": {
+      "infinitive": "können",
+      "present3rd": "er/sie/es kann",
+      "pastPerfekt": "hat gekonnt",
+      "isIrregular": true
+    }
+  },
+  {
+    "id": "verb-019",
+    "word": "müssen",
+    "type": "verb",
+    "english": "must / to have to",
+    "level": "A1",
+    "category": "Modal Verbs",
+    "example": {
+      "german": "Wir müssen pünktlich zum Bahnhof gehen.",
+      "english": "We must go to the train station punctually."
+    },
+    "pronunciation": { "ipa": "ˈmʏsn̩" },
+    "tags": ["verb", "a1", "modal", "irregular"],
+    "verbDetails": {
+      "infinitive": "müssen",
+      "present3rd": "er/sie/es muss",
+      "pastPerfekt": "hat gemusst",
+      "isIrregular": true
+    }
+  },
+  {
+    "id": "verb-020",
+    "word": "möchten",
+    "type": "verb",
+    "english": "would like",
+    "level": "A1",
+    "category": "Modal Verbs",
+    "example": {
+      "german": "Ich möchte mich für den A1-Kurs anmelden.",
+      "english": "I would like to enroll in the A1 course."
+    },
+    "pronunciation": { "ipa": "ˈmœçtn̩" },
+    "tags": ["verb", "a1", "modal"],
+    "verbDetails": {
+      "infinitive": "möchten",
+      "present3rd": "er/sie/es möchte",
+      "pastPerfekt": "hat gewollt",
+      "isIrregular": true
+    }
+  }
+]

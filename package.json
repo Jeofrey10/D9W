@@ -1,27 +1,46 @@
 {
-  "name": "d9w",
-  "version": "0.1.0",
+  "name": "d9w-german-hub",
   "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint"
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "test:foundations": "node scripts/test-phase-03-foundations.mjs",
+    "test:leads": "node scripts/test-leads-api.mjs",
+    "test:listening": "node scripts/test-listening-engine.mjs",
+    "test:reading": "node scripts/test-reading-engine.mjs",
+    "test:daily-word": "node scripts/test-daily-word-engine.mjs",
+    "test:cases": "node scripts/test-case-translator.mjs",
+    "test:planner": "node scripts/test-study-planner.mjs",
+    "test:i18n": "node scripts/test-i18n-system.mjs",
+    "test:e2e": "playwright test",
+    "test:all": "npm run test:foundations && npm run test:leads && npm run test:listening && npm run test:reading && npm run test:daily-word && npm run test:cases && npm run test:planner && npm run test:i18n",
+    "create:workbook": "python scripts/create_d9w_leads_workbook.py",
+    "create:audio": "python scripts/generate_listening_audio.py",
+    "preview": "vite preview"
   },
   "dependencies": {
-    "framer-motion": "^13.2.0",
-    "next": "16.3.5",
-    "react": "19.2.8",
-    "react-dom": "19.2.8"
+    "@fontsource-variable/inter": "^5.3.0",
+    "@fontsource-variable/manrope": "^5.3.0",
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.73.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.5",
+    "tailwind-merge": "^3.7.0"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4",
-    "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "16.3.5",
-    "tailwindcss": "^4",
-    "typescript": "^5"
+    "@playwright/test": "^1.65.1",
+    "@tailwindcss/vite": "^4.3.5",
+    "@types/node": "^24.19.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "oxlint": "^1.90.0",
+    "tailwindcss": "^4.3.5",
+    "typescript": "~7.0.2",
+    "vite": "^8.3.6"
   }
 }

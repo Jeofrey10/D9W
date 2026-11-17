@@ -1,0 +1,152 @@
+[
+  {
+    "id": "noun-c1-001",
+    "word": "Zäsur",
+    "type": "noun",
+    "article": "die",
+    "plural": "Zäsuren",
+    "english": "Caesura / Turning point / Historical break",
+    "pluralEnglish": "Turning points",
+    "level": "C1",
+    "category": "History & Culture",
+    "example": {
+      "german": "Der Fall der Berliner Mauer markierte eine fundamentale Zäsur in der europäischen Geschichte.",
+      "english": "The fall of the Berlin Wall marked a fundamental caesura in European history."
+    },
+    "pronunciation": { "ipa": "tseːˈzuːɐ̯" },
+    "tags": ["noun", "c1", "history"]
+  },
+  {
+    "id": "noun-c1-002",
+    "word": "Souveränität",
+    "type": "noun",
+    "article": "die",
+    "english": "Sovereignty / Self-determination",
+    "level": "C1",
+    "category": "Politics & Society",
+    "example": {
+      "german": "Digitale Souveränität erfordert unabhängige europäische Rechenzentren.",
+      "english": "Digital sovereignty requires independent European data centers."
+    },
+    "pronunciation": { "ipa": "zuvəʁɛniˈtɛːt" },
+    "tags": ["noun", "c1", "politics"],
+    "suffixHint": "-tät"
+  },
+  {
+    "id": "noun-c1-003",
+    "word": "Diskurs",
+    "type": "noun",
+    "article": "der",
+    "plural": "Diskurse",
+    "english": "Discourse / Formal debate",
+    "pluralEnglish": "Discourses",
+    "level": "C1",
+    "category": "Philosophy & Society",
+    "example": {
+      "german": "Der öffentliche Diskurs verlangt gegenseitigen Respekt und faktenbasierte Argumente.",
+      "english": "Public discourse demands mutual respect and fact-based arguments."
+    },
+    "pronunciation": { "ipa": "dɪsˈkʊʁs" },
+    "tags": ["noun", "c1", "philosophy"]
+  },
+  {
+    "id": "noun-c1-004",
+    "word": "Diskrepanz",
+    "type": "noun",
+    "article": "die",
+    "plural": "Diskrepanzen",
+    "english": "Discrepancy / Inconsistency",
+    "pluralEnglish": "Discrepancies",
+    "level": "C1",
+    "category": "Science & Analysis",
+    "example": {
+      "german": "Zwischen den theoretischen Prognosen und den empirischen Messwerten bestand eine deutliche Diskrepanz.",
+      "english": "There was a distinct discrepancy between theoretical projections and empirical measurements."
+    },
+    "pronunciation": { "ipa": "dɪskʁeˈpants" },
+    "tags": ["noun", "c1", "science"],
+    "suffixHint": "-anz"
+  },
+  {
+    "id": "noun-c1-005",
+    "word": "Ambivalenz",
+    "type": "noun",
+    "article": "die",
+    "plural": "Ambivalenzen",
+    "english": "Ambivalence / Duality of feelings",
+    "pluralEnglish": "Ambivalences",
+    "level": "C1",
+    "category": "Psychology & Culture",
+    "example": {
+      "german": "Die Ambivalenz moderner Technologien spiegelt sich in Chancen und ethischen Risiken wider.",
+      "english": "The ambivalence of modern technology is reflected in both opportunities and ethical risks."
+    },
+    "pronunciation": { "ipa": "ambivaˈlɛnts" },
+    "tags": ["noun", "c1", "psychology"],
+    "suffixHint": "-enz"
+  },
+  {
+    "id": "noun-c1-006",
+    "word": "Konsens",
+    "type": "noun",
+    "article": "der",
+    "plural": "Konsense",
+    "english": "Consensus / General agreement",
+    "pluralEnglish": "Consensuses",
+    "level": "C1",
+    "category": "Politics & Society",
+    "example": {
+      "german": "Die Verhandlungspartner erzielten nach intensiven Beratungen einen tragfähigen Konsens.",
+      "english": "After intensive consultations, the negotiating partners reached a viable consensus."
+    },
+    "pronunciation": { "ipa": "kɔnˈzɛns" },
+    "tags": ["noun", "c1", "politics"]
+  },
+  {
+    "id": "verb-c1-001",
+    "word": "hinterfragen",
+    "type": "verb",
+    "english": "To question / To scrutinize critically",
+    "level": "C1",
+    "category": "Science & Thought",
+    "example": {
+      "german": "Wissenschaftler müssen etablierte Hypothesen stets kritisch hinterfragen.",
+      "english": "Scientists must always critically question established hypotheses."
+    },
+    "pronunciation": { "ipa": "hɪntɐˈfʁaːɡn̩" },
+    "tags": ["verb", "c1", "science"],
+    "verbDetails": {
+      "infinitive": "hinterfragen",
+      "present3rd": "hinterfragt",
+      "pastPerfekt": "hat hinterfragt"
+    }
+  },
+  {
+    "id": "adj-c1-001",
+    "word": "prägnant",
+    "type": "adjective",
+    "english": "Concise / Succinct / Pithy",
+    "level": "C1",
+    "category": "Language & Style",
+    "example": {
+      "german": "Sie fasste die Kernbotschaft in einem überaus prägnanten Satz zusammen.",
+      "english": "She summarized the core message in an extremely succinct sentence."
+    },
+    "pronunciation": { "ipa": "pʁɛˈɡnant" },
+    "tags": ["adjective", "c1", "language"]
+  },
+  {
+    "id": "adj-c1-002",
+    "word": "fundiert",
+    "type": "adjective",
+    "english": "Well-founded / Solid / In-depth",
+    "level": "C1",
+    "category": "Science & Analysis",
+    "example": {
+      "german": "Seine fundierte Analyse überzeugte das gesamte wissenschaftliche Kollegium.",
+      "english": "His well-founded analysis convinced the entire academic committee."
+    },
+    "pronunciation": { "ipa": "fʊnˈdiːɐ̯t" },
+    "tags": ["adjective", "c1", "science"]
+  }
+]

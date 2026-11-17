@@ -1,0 +1,688 @@
+[
+  {
+    "id": "noun-001",
+    "word": "Haus",
+    "type": "noun",
+    "article": "das",
+    "plural": "Häuser",
+    "english": "House",
+    "pluralEnglish": "Houses",
+    "level": "A1",
+    "category": "Home",
+    "example": {
+      "german": "Das Haus hat einen schönen Garten.",
+      "english": "The house has a beautiful garden."
+    },
+    "pronunciation": { "ipa": "haʊ̯s" },
+    "tags": ["noun", "a1", "home"]
+  },
+  {
+    "id": "noun-002",
+    "word": "Tisch",
+    "type": "noun",
+    "article": "der",
+    "plural": "Tische",
+    "english": "Table",
+    "pluralEnglish": "Tables",
+    "level": "A1",
+    "category": "Home",
+    "example": {
+      "german": "Der Tisch steht in der Küche.",
+      "english": "The table is in the kitchen."
+    },
+    "pronunciation": { "ipa": "tɪʃ" },
+    "tags": ["noun", "a1", "furniture"]
+  },
+  {
+    "id": "noun-003",
+    "word": "Lampe",
+    "type": "noun",
+    "article": "die",
+    "plural": "Lampen",
+    "english": "Lamp",
+    "pluralEnglish": "Lamps",
+    "level": "A1",
+    "category": "Home",
+    "example": {
+      "german": "Die Lampe ist sehr hell.",
+      "english": "The lamp is very bright."
+    },
+    "pronunciation": { "ipa": "ˈlampə" },
+    "tags": ["noun", "a1", "home"]
+  },
+  {
+    "id": "noun-004",
+    "word": "Stuhl",
+    "type": "noun",
+    "article": "der",
+    "plural": "Stühle",
+    "english": "Chair",
+    "pluralEnglish": "Chairs",
+    "level": "A1",
+    "category": "Home",
+    "example": {
+      "german": "Dieser Stuhl ist sehr bequem.",
+      "english": "This chair is very comfortable."
+    },
+    "pronunciation": { "ipa": "ʃtuːl" },
+    "tags": ["noun", "a1", "furniture"]
+  },
+  {
+    "id": "noun-005",
+    "word": "Buch",
+    "type": "noun",
+    "article": "das",
+    "plural": "Bücher",
+    "english": "Book",
+    "pluralEnglish": "Books",
+    "level": "A1",
+    "category": "Education",
+    "example": {
+      "german": "Ich lese ein deutsches Buch.",
+      "english": "I am reading a German book."
+    },
+    "pronunciation": { "ipa": "buːx" },
+    "tags": ["noun", "a1", "education"]
+  },
+  {
+    "id": "noun-006",
+    "word": "Frau",
+    "type": "noun",
+    "article": "die",
+    "plural": "Frauen",
+    "english": "Woman / Wife",
+    "pluralEnglish": "Women / Wives",
+    "level": "A1",
+    "category": "People",
+    "example": {
+      "german": "Die Frau spricht fließend Deutsch.",
+      "english": "The woman speaks German fluently."
+    },
+    "pronunciation": { "ipa": "fʁaʊ̯" },
+    "tags": ["noun", "a1", "people"]
+  },
+  {
+    "id": "noun-007",
+    "word": "Mann",
+    "type": "noun",
+    "article": "der",
+    "plural": "Männer",
+    "english": "Man / Husband",
+    "pluralEnglish": "Men / Husbands",
+    "level": "A1",
+    "category": "People",
+    "example": {
+      "german": "Der Mann arbeitet bei Siemens.",
+      "english": "The man works at Siemens."
+    },
+    "pronunciation": { "ipa": "man" },
+    "tags": ["noun", "a1", "people"]
+  },
+  {
+    "id": "noun-008",
+    "word": "Kind",
+    "type": "noun",
+    "article": "das",
+    "plural": "Kinder",
+    "english": "Child",
+    "pluralEnglish": "Children",
+    "level": "A1",
+    "category": "People",
+    "example": {
+      "german": "Das Kind spielt im Park.",
+      "english": "The child is playing in the park."
+    },
+    "pronunciation": { "ipa": "kɪnt" },
+    "tags": ["noun", "a1", "people", "family"]
+  },
+  {
+    "id": "noun-009",
+    "word": "Apfel",
+    "type": "noun",
+    "article": "der",
+    "plural": "Äpfel",
+    "english": "Apple",
+    "pluralEnglish": "Apples",
+    "level": "A1",
+    "category": "Food & Drink",
+    "example": {
+      "german": "Ich esse jeden Morgen einen Apfel.",
+      "english": "I eat an apple every morning."
+    },
+    "pronunciation": { "ipa": "ˈap͡fl̩" },
+    "tags": ["noun", "a1", "food"]
+  },
+  {
+    "id": "noun-010",
+    "word": "Brot",
+    "type": "noun",
+    "article": "das",
+    "plural": "Brote",
+    "english": "Bread",
+    "pluralEnglish": "Breads",
+    "level": "A1",
+    "category": "Food & Drink",
+    "example": {
+      "german": "Deutsches Brot ist weltweit berühmt.",
+      "english": "German bread is famous worldwide."
+    },
+    "pronunciation": { "ipa": "bʁoːt" },
+    "tags": ["noun", "a1", "food"]
+  },
+  {
+    "id": "noun-011",
+    "word": "Kaffee",
+    "type": "noun",
+    "article": "der",
+    "plural": "Kaffees",
+    "english": "Coffee",
+    "pluralEnglish": "Coffees",
+    "level": "A1",
+    "category": "Food & Drink",
+    "example": {
+      "german": "Möchten Sie eine Tasse Kaffee?",
+      "english": "Would you like a cup of coffee?"
+    },
+    "pronunciation": { "ipa": "ˈkafe" },
+    "tags": ["noun", "a1", "drink"]
+  },
+  {
+    "id": "noun-012",
+    "word": "Milch",
+    "type": "noun",
+    "article": "die",
+    "plural": "Milchen",
+    "english": "Milk",
+    "pluralEnglish": "Milks",
+    "level": "A1",
+    "category": "Food & Drink",
+    "example": {
+      "german": "Ich trinke Kaffee mit Milch.",
+      "english": "I drink coffee with milk."
+    },
+    "pronunciation": { "ipa": "mɪlç" },
+    "tags": ["noun", "a1", "drink"]
+  },
+  {
+    "id": "noun-013",
+    "word": "Wasser",
+    "type": "noun",
+    "article": "das",
+    "plural": "Wässer",
+    "english": "Water",
+    "pluralEnglish": "Waters",
+    "level": "A1",
+    "category": "Food & Drink",
+    "example": {
+      "german": "Ein Glas Wasser, bitte.",
+      "english": "A glass of water, please."
+    },
+    "pronunciation": { "ipa": "ˈvasɐ" },
+    "tags": ["noun", "a1", "drink"]
+  },
+  {
+    "id": "noun-014",
+    "word": "Auto",
+    "type": "noun",
+    "article": "das",
+    "plural": "Autos",
+    "english": "Car",
+    "pluralEnglish": "Cars",
+    "level": "A1",
+    "category": "Transportation",
+    "example": {
+      "german": "Das Auto fährt sehr schnell.",
+      "english": "The car drives very fast."
+    },
+    "pronunciation": { "ipa": "ˈaʊ̯to" },
+    "tags": ["noun", "a1", "transport"]
+  },
+  {
+    "id": "noun-015",
+    "word": "Zug",
+    "type": "noun",
+    "article": "der",
+    "plural": "Züge",
+    "english": "Train",
+    "pluralEnglish": "Trains",
+    "level": "A1",
+    "category": "Transportation",
+    "example": {
+      "german": "Der Zug nach Berlin hat fünf Minuten Verspätung.",
+      "english": "The train to Berlin is five minutes delayed."
+    },
+    "pronunciation": { "ipa": "t͡suːk" },
+    "tags": ["noun", "a1", "transport"]
+  },
+  {
+    "id": "noun-016",
+    "word": "Stadt",
+    "type": "noun",
+    "article": "die",
+    "plural": "Städte",
+    "english": "City",
+    "pluralEnglish": "Cities",
+    "level": "A1",
+    "category": "City & Living",
+    "example": {
+      "german": "München ist eine schöne Stadt.",
+      "english": "Munich is a beautiful city."
+    },
+    "pronunciation": { "ipa": "ʃtat" },
+    "tags": ["noun", "a1", "city"]
+  },
+  {
+    "id": "noun-017",
+    "word": "Straße",
+    "type": "noun",
+    "article": "die",
+    "plural": "Straßen",
+    "english": "Street",
+    "pluralEnglish": "Streets",
+    "level": "A1",
+    "category": "City & Living",
+    "example": {
+      "german": "Die Straße ist heute gesperrt.",
+      "english": "The street is closed today."
+    },
+    "pronunciation": { "ipa": "ˈʃtʁaːsə" },
+    "tags": ["noun", "a1", "city"]
+  },
+  {
+    "id": "noun-018",
+    "word": "Zimmer",
+    "type": "noun",
+    "article": "das",
+    "plural": "Zimmer",
+    "english": "Room",
+    "pluralEnglish": "Rooms",
+    "level": "A1",
+    "category": "Home",
+    "example": {
+      "german": "Mein Zimmer ist sauber und hell.",
+      "english": "My room is clean and bright."
+    },
+    "pronunciation": { "ipa": "ˈt͡sɪmɐ" },
+    "tags": ["noun", "a1", "home"]
+  },
+  {
+    "id": "noun-019",
+    "word": "Freund",
+    "type": "noun",
+    "article": "der",
+    "plural": "Freunde",
+    "english": "Friend / Boyfriend",
+    "pluralEnglish": "Friends",
+    "level": "A1",
+    "category": "People",
+    "example": {
+      "german": "Mein Freund kommt heute zu Besuch.",
+      "english": "My friend is coming to visit today."
+    },
+    "pronunciation": { "ipa": "fʁɔɪ̯nt" },
+    "tags": ["noun", "a1", "people"]
+  },
+  {
+    "id": "noun-020",
+    "word": "Freundin",
+    "type": "noun",
+    "article": "die",
+    "plural": "Freundinnen",
+    "english": "Friend (female) / Girlfriend",
+    "pluralEnglish": "Friends (female)",
+    "level": "A1",
+    "category": "People",
+    "example": {
+      "german": "Meine Freundin lernt auch Deutsch.",
+      "english": "My friend is also learning German."
+    },
+    "pronunciation": { "ipa": "ˈfʁɔɪ̯ndɪn" },
+    "tags": ["noun", "a1", "people"],
+    "suffixHint": "-in"
+  },
+  {
+    "id": "noun-021",
+    "word": "Lehrer",
+    "type": "noun",
+    "article": "der",
+    "plural": "Lehrer",
+    "english": "Teacher (male)",
+    "pluralEnglish": "Teachers",
+    "level": "A1",
+    "category": "Education",
+    "example": {
+      "german": "Der Lehrer erklärt die Grammatik.",
+      "english": "The teacher explains the grammar."
+    },
+    "pronunciation": { "ipa": "ˈleːʁɐ" },
+    "tags": ["noun", "a1", "education", "job"],
+    "suffixHint": "-er"
+  },
+  {
+    "id": "noun-022",
+    "word": "Schule",
+    "type": "noun",
+    "article": "die",
+    "plural": "Schulen",
+    "english": "School",
+    "pluralEnglish": "Schools",
+    "level": "A1",
+    "category": "Education",
+    "example": {
+      "german": "Die Kinder gehen um acht Uhr in die Schule.",
+      "english": "The children go to school at eight o'clock."
+    },
+    "pronunciation": { "ipa": "ˈʃuːlə" },
+    "tags": ["noun", "a1", "education"]
+  },
+  {
+    "id": "noun-023",
+    "word": "Mädchen",
+    "type": "noun",
+    "article": "das",
+    "plural": "Mädchen",
+    "english": "Girl",
+    "pluralEnglish": "Girls",
+    "level": "A1",
+    "category": "People",
+    "example": {
+      "german": "Das Mädchen liest eine Zeitung.",
+      "english": "The girl is reading a newspaper."
+    },
+    "pronunciation": { "ipa": "ˈmɛːtçən" },
+    "tags": ["noun", "a1", "people"],
+    "suffixHint": "-chen"
+  },
+  {
+    "id": "noun-024",
+    "word": "Junge",
+    "type": "noun",
+    "article": "der",
+    "plural": "Jungen",
+    "english": "Boy",
+    "pluralEnglish": "Boys",
+    "level": "A1",
+    "category": "People",
+    "example": {
+      "german": "Der Junge spielt Fußball.",
+      "english": "The boy is playing soccer."
+    },
+    "pronunciation": { "ipa": "ˈjʊŋə" },
+    "tags": ["noun", "a1", "people"]
+  },
+  {
+    "id": "noun-025",
+    "word": "Arbeit",
+    "type": "noun",
+    "article": "die",
+    "plural": "Arbeiten",
+    "english": "Work / Job",
+    "pluralEnglish": "Works",
+    "level": "A1",
+    "category": "Work & Career",
+    "example": {
+      "german": "Die Arbeit beginnt um neun Uhr.",
+      "english": "Work starts at nine o'clock."
+    },
+    "pronunciation": { "ipa": "ˈaʁbaɪ̯t" },
+    "tags": ["noun", "a1", "work"]
+  },
+  {
+    "id": "noun-026",
+    "word": "Tag",
+    "type": "noun",
+    "article": "der",
+    "plural": "Tage",
+    "english": "Day",
+    "pluralEnglish": "Days",
+    "level": "A1",
+    "category": "Time",
+    "example": {
+      "german": "Guten Tag, wie geht es Ihnen?",
+      "english": "Good day, how are you?"
+    },
+    "pronunciation": { "ipa": "taːk" },
+    "tags": ["noun", "a1", "time"]
+  },
+  {
+    "id": "noun-027",
+    "word": "Nacht",
+    "type": "noun",
+    "article": "die",
+    "plural": "Nächte",
+    "english": "Night",
+    "pluralEnglish": "Nights",
+    "level": "A1",
+    "category": "Time",
+    "example": {
+      "german": "Gute Nacht und schlaf gut!",
+      "english": "Good night and sleep well!"
+    },
+    "pronunciation": { "ipa": "naxt" },
+    "tags": ["noun", "a1", "time"]
+  },
+  {
+    "id": "noun-028",
+    "word": "Jahr",
+    "type": "noun",
+    "article": "das",
+    "plural": "Jahre",
+    "english": "Year",
+    "pluralEnglish": "Years",
+    "level": "A1",
+    "category": "Time",
+    "example": {
+      "german": "Ein Jahr hat zwölf Monate.",
+      "english": "A year has twelve months."
+    },
+    "pronunciation": { "ipa": "jaːɐ̯" },
+    "tags": ["noun", "a1", "time"]
+  },
+  {
+    "id": "noun-029",
+    "word": "Woche",
+    "type": "noun",
+    "article": "die",
+    "plural": "Wochen",
+    "english": "Week",
+    "pluralEnglish": "Weeks",
+    "level": "A1",
+    "category": "Time",
+    "example": {
+      "german": "Nächste Woche fahre ich nach Hamburg.",
+      "english": "Next week I am traveling to Hamburg."
+    },
+    "pronunciation": { "ipa": "ˈvɔxə" },
+    "tags": ["noun", "a1", "time"]
+  },
+  {
+    "id": "noun-030",
+    "word": "Uhr",
+    "type": "noun",
+    "article": "die",
+    "plural": "Uhren",
+    "english": "Clock / O'clock",
+    "pluralEnglish": "Clocks",
+    "level": "A1",
+    "category": "Time",
+    "example": {
+      "german": "Wie viel Uhr ist es?",
+      "english": "What time is it?"
+    },
+    "pronunciation": { "ipa": "uːɐ̯" },
+    "tags": ["noun", "a1", "time"]
+  },
+  {
+    "id": "noun-031",
+    "word": "Tür",
+    "type": "noun",
+    "article": "die",
+    "plural": "Türen",
+    "english": "Door",
+    "pluralEnglish": "Doors",
+    "level": "A1",
+    "category": "Home",
+    "example": {
+      "german": "Bitte schließen Sie die Tür.",
+      "english": "Please close the door."
+    },
+    "pronunciation": { "ipa": "tyːɐ̯" },
+    "tags": ["noun", "a1", "home"]
+  },
+  {
+    "id": "noun-032",
+    "word": "Fenster",
+    "type": "noun",
+    "article": "das",
+    "plural": "Fenster",
+    "english": "Window",
+    "pluralEnglish": "Windows",
+    "level": "A1",
+    "category": "Home",
+    "example": {
+      "german": "Kannst du das Fenster öffnen?",
+      "english": "Can you open the window?"
+    },
+    "pronunciation": { "ipa": "ˈfɛnstɐ" },
+    "tags": ["noun", "a1", "home"]
+  },
+  {
+    "id": "noun-033",
+    "word": "Handy",
+    "type": "noun",
+    "article": "das",
+    "plural": "Handys",
+    "english": "Mobile phone",
+    "pluralEnglish": "Mobile phones",
+    "level": "A1",
+    "category": "Technology",
+    "example": {
+      "german": "Wo ist mein Handy?",
+      "english": "Where is my mobile phone?"
+    },
+    "pronunciation": { "ipa": "ˈhɛndi" },
+    "tags": ["noun", "a1", "technology"]
+  },
+  {
+    "id": "noun-034",
+    "word": "Computer",
+    "type": "noun",
+    "article": "der",
+    "plural": "Computer",
+    "english": "Computer",
+    "pluralEnglish": "Computers",
+    "level": "A1",
+    "category": "Technology",
+    "example": {
+      "german": "Der Computer ist neu und schnell.",
+      "english": "The computer is new and fast."
+    },
+    "pronunciation": { "ipa": "kɔmˈpjuːtɐ" },
+    "tags": ["noun", "a1", "technology"],
+    "suffixHint": "-er"
+  },
+  {
+    "id": "noun-035",
+    "word": "Zeitung",
+    "type": "noun",
+    "article": "die",
+    "plural": "Zeitungen",
+    "english": "Newspaper",
+    "pluralEnglish": "Newspapers",
+    "level": "A1",
+    "category": "Media",
+    "example": {
+      "german": "Mein Vater liest morgens die Zeitung.",
+      "english": "My father reads the newspaper in the morning."
+    },
+    "pronunciation": { "ipa": "ˈt͡saɪ̯tʊŋ" },
+    "tags": ["noun", "a1", "media"],
+    "suffixHint": "-ung"
+  },
+  {
+    "id": "noun-036",
+    "word": "Wohnung",
+    "type": "noun",
+    "article": "die",
+    "plural": "Wohnungen",
+    "english": "Apartment / Flat",
+    "pluralEnglish": "Apartments",
+    "level": "A1",
+    "category": "Home",
+    "example": {
+      "german": "Wir suchen eine Drei-Zimmer-Wohnung.",
+      "english": "We are looking for a three-room apartment."
+    },
+    "pronunciation": { "ipa": "ˈvoːnʊŋ" },
+    "tags": ["noun", "a1", "home"],
+    "suffixHint": "-ung"
+  },
+  {
+    "id": "noun-037",
+    "word": "Name",
+    "type": "noun",
+    "article": "der",
+    "plural": "Namen",
+    "english": "Name",
+    "pluralEnglish": "Names",
+    "level": "A1",
+    "category": "People",
+    "example": {
+      "german": "Mein Name ist Alexander.",
+      "english": "My name is Alexander."
+    },
+    "pronunciation": { "ipa": "ˈnaːmə" },
+    "tags": ["noun", "a1", "communication"]
+  },
+  {
+    "id": "noun-038",
+    "word": "Sprache",
+    "type": "noun",
+    "article": "die",
+    "plural": "Sprachen",
+    "english": "Language",
+    "pluralEnglish": "Languages",
+    "level": "A1",
+    "category": "Communication",
+    "example": {
+      "german": "Deutsch ist eine logische Sprache.",
+      "english": "German is a logical language."
+    },
+    "pronunciation": { "ipa": "ˈʃpʁaːxə" },
+    "tags": ["noun", "a1", "communication"]
+  },
+  {
+    "id": "noun-039",
+    "word": "Geld",
+    "type": "noun",
+    "article": "das",
+    "plural": "Gelder",
+    "english": "Money",
+    "pluralEnglish": "Funds",
+    "level": "A1",
+    "category": "Daily Living",
+    "example": {
+      "german": "Haben Sie genug Geld dabei?",
+      "english": "Do you have enough money with you?"
+    },
+    "pronunciation": { "ipa": "ɡɛlt" },
+    "tags": ["noun", "a1", "daily"]
+  },
+  {
+    "id": "noun-040",
+    "word": "Euro",
+    "type": "noun",
+    "article": "der",
+    "plural": "Euro",
+    "english": "Euro",
+    "pluralEnglish": "Euros",
+    "level": "A1",
+    "category": "Daily Living",
+    "example": {
+      "german": "Das Buch kostet fünfzehn Euro.",
+      "english": "The book costs fifteen euros."
+    },
+    "pronunciation": { "ipa": "ˈɔɪ̯ʁo" },
+    "tags": ["noun", "a1", "money"]
+  }
+]

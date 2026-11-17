@@ -1,0 +1,43 @@
+export const homeEn = {
+  hero: {
+    badge: 'CEFR A1–C1 Accredited Curricula',
+    title1: 'Master German with',
+    titleHighlight: 'Linguistic Rigour',
+    title2: 'and Fluency.',
+    subtitle: 'Specialized German language education in Madurai for ambitious scholars, healthcare professionals, engineers, and visa aspirants. Structured CEFR training, live interactive classes, and modern learning tools.',
+    primaryCta: 'Book Free Demo Class',
+    secondaryCta: 'Explore All Courses',
+    trust1: 'Certified Exam Preparation',
+    trust2: 'Small Cohort Sizes (Max 14–16)',
+    trust3: 'Madurai Campus & Live Online',
+  },
+  coursesSection: {
+    eyebrow: 'STRUCTURED CEFR FRAMEWORK',
+    title: 'From Beginner to Advanced Professional Mastery',
+    subtitle: 'Our 5-tier progression maps directly to Goethe-Zertifikat, telc, and TestDaF standards. Select a level to view comprehensive syllabi and learning outcomes.',
+    viewComparison: 'Compare All Levels Side-by-Side →',
+  },
+  learningHubSection: {
+    eyebrow: 'INTERACTIVE DIGITAL SUITE',
+    title: 'Accelerate Fluency with 10 Free Digital Tools',
+    subtitle: 'Reinforce grammar, expand lexical memory, and simulate exam tasks with our interactive training applications.',
+    exploreHub: 'Access Free Learning Hub →',
+  },
+  methodologySection: {
+    eyebrow: 'WHY D9W INSTITUTE',
+    title: 'Linguistic Precision Meets Real-World Fluency',
+    subtitle: 'Built on classical German linguistic traditions and modern European communicative methods.',
+    pillar1Title: 'CEFR-Aligned Progression',
+    pillar1Desc: 'Every curriculum module is precisely benchmarked against European standards for university admission, Approbation, and employment visas.',
+    pillar2Title: 'Small Group Immersion',
+    pillar2Desc: 'Strict caps on cohort sizes guarantee daily speaking feedback, accent coaching, and personalized writing evaluation.',
+    pillar3Title: 'Dual-Engine Practice',
+    pillar3Desc: 'Classroom instruction is reinforced by proprietary digital trainers for case declensions, articles, listening, and speed reading.',
+  },
+  ctaSection: {
+    title: 'Begin Your German Journey with Confidence',
+    subtitle: 'Schedule a complimentary consultation or join an interactive demo class with our certified academic team.',
+    bookDemo: 'Book Free Demo Class',
+    whatsappConsult: 'WhatsApp Consultation',
+  },
+}

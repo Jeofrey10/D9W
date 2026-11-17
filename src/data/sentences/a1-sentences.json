@@ -1,0 +1,98 @@
+[
+  {
+    "id": "sent-a1-001",
+    "level": "A1",
+    "category": "Basic Statements",
+    "english": "I am learning German today.",
+    "germanTarget": "Ich lerne heute Deutsch.",
+    "tokens": ["lerne", "Ich", "Deutsch.", "heute"],
+    "acceptableOrders": ["Ich lerne heute Deutsch.", "Heute lerne ich Deutsch."],
+    "grammarRule": "Verb-Second (V2) Rule",
+    "grammarConcept": "V2_RULE",
+    "explanation": "In standard German main clauses, the conjugated verb ('lerne') must always occupy Position 2. You may start with 'Ich' or with 'Heute' as long as the verb stays in Position 2."
+  },
+  {
+    "id": "sent-a1-002",
+    "level": "A1",
+    "category": "Inverted Word Order",
+    "english": "Today we are drinking coffee.",
+    "germanTarget": "Heute trinken wir Kaffee.",
+    "tokens": ["wir", "Heute", "Kaffee.", "trinken"],
+    "acceptableOrders": ["Heute trinken wir Kaffee.", "Wir trinken heute Kaffee."],
+    "grammarRule": "Inversion after Adverb of Time",
+    "grammarConcept": "V2_RULE",
+    "explanation": "When an adverb of time ('Heute') takes Position 1, the subject ('wir') moves immediately behind the conjugated verb ('trinken') so the verb remains in Position 2."
+  },
+  {
+    "id": "sent-a1-003",
+    "level": "A1",
+    "category": "Modal Verbs",
+    "english": "I can speak German.",
+    "germanTarget": "Ich kann Deutsch sprechen.",
+    "tokens": ["sprechen.", "kann", "Ich", "Deutsch"],
+    "acceptableOrders": ["Ich kann Deutsch sprechen."],
+    "grammarRule": "Modal Verb Satzklammer (Sentence Bracket)",
+    "grammarConcept": "MODAL_BRACKET",
+    "explanation": "The conjugated modal verb ('kann') occupies Position 2, while the main action verb ('sprechen') is sent to the end of the sentence in its infinitive form."
+  },
+  {
+    "id": "sent-a1-004",
+    "level": "A1",
+    "category": "Separable Verbs",
+    "english": "He gets up at seven o'clock.",
+    "germanTarget": "Er steht um sieben Uhr auf.",
+    "tokens": ["sieben", "steht", "auf.", "Er", "um", "Uhr"],
+    "acceptableOrders": ["Er steht um sieben Uhr auf.", "Um sieben Uhr steht er auf."],
+    "grammarRule": "Separable Verb Prefix Placement",
+    "grammarConcept": "SEPARABLE_VERB",
+    "explanation": "With separable verbs like 'aufstehen', the conjugated base verb ('steht') stays in Position 2, while the prefix ('auf') is positioned at the very end of the clause."
+  },
+  {
+    "id": "sent-a1-005",
+    "level": "A1",
+    "category": "Questions (Ja/Nein)",
+    "english": "Are you coming to class today?",
+    "germanTarget": "Kommst du heute zum Unterricht?",
+    "tokens": ["du", "Kommst", "zum", "heute", "Unterricht?"],
+    "acceptableOrders": ["Kommst du heute zum Unterricht?"],
+    "grammarRule": "Verb-First (V1) in Yes/No Questions",
+    "grammarConcept": "QUESTION",
+    "explanation": "In German Yes/No questions (Entscheidungsfragen), the conjugated verb ('Kommst') moves to Position 1, directly followed by the subject ('du')."
+  },
+  {
+    "id": "sent-a1-006",
+    "level": "A1",
+    "category": "Negation",
+    "english": "She does not understand the sentence.",
+    "germanTarget": "Sie versteht den Satz nicht.",
+    "tokens": ["Satz", "versteht", "den", "nicht.", "Sie"],
+    "acceptableOrders": ["Sie versteht den Satz nicht."],
+    "grammarRule": "Negation with 'nicht'",
+    "grammarConcept": "NEGATION",
+    "explanation": "When negating the entire verbal action or a specific definite direct object ('den Satz'), 'nicht' is placed at the end of the main clause."
+  },
+  {
+    "id": "sent-a1-007",
+    "level": "A1",
+    "category": "Daily Routine",
+    "english": "My brother works at Siemens.",
+    "germanTarget": "Mein Bruder arbeitet bei Siemens.",
+    "tokens": ["Bruder", "bei", "arbeitet", "Mein", "Siemens."],
+    "acceptableOrders": ["Mein Bruder arbeitet bei Siemens.", "Bei Siemens arbeitet mein Bruder."],
+    "grammarRule": "Verb-Second in Subject-Verb Construction",
+    "grammarConcept": "V2_RULE",
+    "explanation": "The subject noun phrase ('Mein Bruder') occupies Position 1, followed directly by the conjugated verb ('arbeitet') in Position 2."
+  },
+  {
+    "id": "sent-a1-008",
+    "level": "A1",
+    "category": "Food & Drink",
+    "english": "We eat fresh bread every morning.",
+    "germanTarget": "Wir essen jeden Morgen frisches Brot.",
+    "tokens": ["essen", "Brot.", "frisches", "Wir", "Morgen", "jeden"],
+    "acceptableOrders": ["Wir essen jeden Morgen frisches Brot.", "Jeden Morgen essen wir frisches Brot."],
+    "grammarRule": "Time before Object in Standard Word Order",
+    "grammarConcept": "V2_RULE",
+    "explanation": "Adverbs of time ('jeden Morgen') generally precede the direct object ('frisches Brot') in natural German sentence rhythm."
+  }
+]

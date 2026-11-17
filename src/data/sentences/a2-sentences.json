@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sent-a2-001",
+    "level": "A2",
+    "category": "Subordinate Clause (weil)",
+    "english": "I am learning German because I want to study in Germany.",
+    "germanTarget": "Ich lerne Deutsch, weil ich in Deutschland studieren möchte.",
+    "tokens": ["lerne", "Deutschland", "Ich", "studieren", "möchte.", "in", "weil", "Deutsch,", "ich"],
+    "acceptableOrders": ["Ich lerne Deutsch, weil ich in Deutschland studieren möchte."],
+    "grammarRule": "Verb-Final in Subordinate Clauses",
+    "grammarConcept": "SUBORDINATE_VERB_FINAL",
+    "explanation": "The subordinating conjunction 'weil' introduces a subordinate clause where the conjugated verb ('möchte') is kicked to the absolute end of the sentence."
+  },
+  {
+    "id": "sent-a2-002",
+    "level": "A2",
+    "category": "Subordinate Clause (dass)",
+    "english": "I know that you speak good German.",
+    "germanTarget": "Ich weiß, dass du gutes Deutsch sprichst.",
+    "tokens": ["du", "sprichst.", "Ich", "gutes", "dass", "weiß,", "Deutsch"],
+    "acceptableOrders": ["Ich weiß, dass du gutes Deutsch sprichst."],
+    "grammarRule": "Verb-Final with 'dass'",
+    "grammarConcept": "SUBORDINATE_VERB_FINAL",
+    "explanation": "'dass' is a subordinating conjunction. The conjugated verb ('sprichst') must stand at the very end of the sub-clause."
+  },
+  {
+    "id": "sent-a2-003",
+    "level": "B1",
+    "category": "TeKaMoLo Word Order",
+    "english": "I am traveling tomorrow by train to Berlin.",
+    "germanTarget": "Ich fahre morgen mit dem Zug nach Berlin.",
+    "tokens": ["fahre", "nach", "dem", "morgen", "Zug", "Ich", "Berlin.", "mit"],
+    "acceptableOrders": ["Ich fahre morgen mit dem Zug nach Berlin.", "Morgen fahre ich mit dem Zug nach Berlin."],
+    "grammarRule": "TeKaMoLo Adverbial Sequence (Time -> Modal -> Place)",
+    "grammarConcept": "TEKAMOLO",
+    "explanation": "'morgen' (Temporal - When?) precedes 'mit dem Zug' (Modal - How?), which precedes 'nach Berlin' (Lokal - Where?)."
+  },
+  {
+    "id": "sent-a2-004",
+    "level": "A2",
+    "category": "Conversational Past (Perfekt)",
+    "english": "We bought a ticket yesterday.",
+    "germanTarget": "Wir haben gestern eine Fahrkarte gekauft.",
+    "tokens": ["haben", "eine", "gestern", "Wir", "Fahrkarte", "gekauft."],
+    "acceptableOrders": ["Wir haben gestern eine Fahrkarte gekauft.", "Gestern haben wir eine Fahrkarte gekauft."],
+    "grammarRule": "Perfekt Tense Satzklammer",
+    "grammarConcept": "MODAL_BRACKET",
+    "explanation": "In the Perfekt tense, the auxiliary verb ('haben') is in Position 2, and the past participle ('gekauft') is located at the end of the clause."
+  },
+  {
+    "id": "sent-a2-005",
+    "level": "B1",
+    "category": "Subordinate Clause (obwohl)",
+    "english": "He comes to work although he is sick.",
+    "germanTarget": "Er kommt zur Arbeit, obwohl er krank ist.",
+    "tokens": ["krank", "Er", "kommt", "obwohl", "ist.", "Arbeit,", "zur", "er"],
+    "acceptableOrders": ["Er kommt zur Arbeit, obwohl er krank ist."],
+    "grammarRule": "Concessive Subordinate Clause with 'obwohl'",
+    "grammarConcept": "SUBORDINATE_VERB_FINAL",
+    "explanation": "Concessive conjunctions like 'obwohl' require the conjugated verb ('ist') to occupy the final slot."
+  }
+]

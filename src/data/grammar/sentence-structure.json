@@ -1,0 +1,75 @@
+{
+  "concepts": [
+    {
+      "key": "V2_RULE",
+      "title": "Verb-Second (V2) Rule",
+      "description": "In German main clauses (Hauptsätze), the finite (conjugated) verb MUST occupy Position 2. While Position 1 can be held by the subject, an adverbial of time, or an object, Position 2 is rigidly reserved for the conjugated verb.",
+      "formula": "[Position 1: Subject / Adverb / Object] + [Position 2: Conjugated Verb] + [Mittelfeld] + [Satzende]",
+      "examples": [
+        {
+          "pattern": "Subject First",
+          "sentence": "Ich lerne heute Deutsch.",
+          "breakdown": "Ich (Pos 1) + lerne (Pos 2) + heute + Deutsch."
+        },
+        {
+          "pattern": "Inverted Word Order (Time First)",
+          "sentence": "Heute lerne ich Deutsch.",
+          "breakdown": "Heute (Pos 1) + lerne (Pos 2) + ich (Subject) + Deutsch."
+        }
+      ]
+    },
+    {
+      "key": "MODAL_BRACKET",
+      "title": "Modal Verb Satzklammer (Sentence Bracket)",
+      "description": "When using modal verbs (können, müssen, wollen, sollen, dürfen, möchten), the modal verb is conjugated in Position 2, while the main lexical verb is pushed to the very end of the clause in its infinitive form.",
+      "formula": "[Subject] + [Modal Verb (Pos 2)] + [...] + [Infinitive Verb (Satzende)]",
+      "examples": [
+        {
+          "pattern": "Modal Verb Construction",
+          "sentence": "Ich kann sehr gut Deutsch sprechen.",
+          "breakdown": "Ich + kann (Modal Verb Pos 2) + sehr gut Deutsch + sprechen (Infinitive at end)."
+        }
+      ]
+    },
+    {
+      "key": "SEPARABLE_VERB",
+      "title": "Separable Verbs (Trennbare Verben)",
+      "description": "Verbs with separable prefixes (aufstehen, einkaufen, anfangen) split in the present tense: the verb stem conjugates in Position 2, and the prefix moves to the absolute end of the clause.",
+      "formula": "[Subject] + [Stem Verb (Pos 2)] + [...] + [Prefix (Satzende)]",
+      "examples": [
+        {
+          "pattern": "Separable Prefix at End",
+          "sentence": "Ich stehe jeden Morgen um sieben Uhr auf.",
+          "breakdown": "Ich + stehe (Stem Pos 2) + jeden Morgen um sieben Uhr + auf (Prefix at end)."
+        }
+      ]
+    },
+    {
+      "key": "SUBORDINATE_VERB_FINAL",
+      "title": "Subordinate Clause (Nebensatz) Verb-Final Rule",
+      "description": "Subordinating conjunctions (weil, dass, wenn, obwohl, da) kick the conjugated verb to the absolute end of the subordinate clause.",
+      "formula": "[Main Clause], + [Conjunction] + [Subject] + [...] + [Conjugated Verb (Ende)]",
+      "examples": [
+        {
+          "pattern": "Subordinate Clause with 'weil'",
+          "sentence": "Ich lerne Deutsch, weil ich in Deutschland studieren möchte.",
+          "breakdown": "weil (Conjunction) + ich (Subject) + in Deutschland studieren + möchte (Conjugated Verb at end)."
+        }
+      ]
+    },
+    {
+      "key": "TEKAMOLO",
+      "title": "TeKaMoLo Adverbial Word Order",
+      "description": "When multiple adverbial phrases occur in the Mittelfeld (middle field) of a German sentence, they traditionally follow this order: Temporal (When?) -> Kausal (Why?) -> Modal (How?) -> Lokal (Where?).",
+      "formula": "Subject + Verb + [Temporal] + [Kausal] + [Modal] + [Lokal] + Direct Object",
+      "mnemonic": "Te (Wann?) - Ka (Warum?) - Mo (Wie?) - Lo (Wohin/Wo?)",
+      "examples": [
+        {
+          "pattern": "TeKaMoLo Sequence",
+          "sentence": "Ich fahre morgen wegen der Konferenz mit dem Zug nach Berlin.",
+          "breakdown": "morgen (Temporal) + wegen der Konferenz (Kausal) + mit dem Zug (Modal) + nach Berlin (Lokal)."
+        }
+      ]
+    }
+  ]
+}

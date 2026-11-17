@@ -1,3 +1,16 @@
-export function cn(...classes: (string | boolean | undefined | null)[]): string {
-  return classes.filter(Boolean).join(" ");
+import { type ClassValue, clsx } from 'clsx'
+import { twMerge } from 'tailwind-merge'
+
+/**
+ * Combines conditional classes and safely merges Tailwind utility classes.
+ */
+export function cn(...inputs: ClassValue[]): string {
+  return twMerge(clsx(inputs))
+}
+
+/**
+ * Format German level or text helpers if needed
+ */
+export function formatCefrLevel(level: string): string {
+  return level.toUpperCase()
 }

@@ -1,0 +1,236 @@
+[
+  {
+    "id": "noun-b2-001",
+    "word": "Herausforderung",
+    "type": "noun",
+    "article": "die",
+    "plural": "Herausforderungen",
+    "english": "Challenge",
+    "pluralEnglish": "Challenges",
+    "level": "B2",
+    "category": "Career & Society",
+    "example": {
+      "german": "Die Digitalisierung ist eine große Herausforderung für viele Betriebe.",
+      "english": "Digitalization is a major challenge for many companies."
+    },
+    "pronunciation": { "ipa": "hɛˈʁaʊ̯sˌfɔʁdəʁʊŋ" },
+    "tags": ["noun", "b2", "society", "work"],
+    "suffixHint": "-ung"
+  },
+  {
+    "id": "noun-b2-002",
+    "word": "Nachhaltigkeit",
+    "type": "noun",
+    "article": "die",
+    "english": "Sustainability",
+    "level": "B2",
+    "category": "Environment",
+    "example": {
+      "german": "Nachhaltigkeit spielt im modernen Städtebau eine entscheidende Rolle.",
+      "english": "Sustainability plays a decisive role in modern urban planning."
+    },
+    "pronunciation": { "ipa": "ˈnaːxˌhaltɪçkaɪ̯t" },
+    "tags": ["noun", "b2", "environment"],
+    "suffixHint": "-keit"
+  },
+  {
+    "id": "noun-b2-003",
+    "word": "Augenblick",
+    "type": "noun",
+    "article": "der",
+    "plural": "Augenblicke",
+    "english": "Moment / Instant",
+    "pluralEnglish": "Moments",
+    "level": "B2",
+    "category": "Daily Life",
+    "example": {
+      "german": "Warten Sie bitte einen kurzen Augenblick.",
+      "english": "Please wait for a brief moment."
+    },
+    "pronunciation": { "ipa": "ˈaʊ̯ɡn̩ˌblɪk" },
+    "tags": ["noun", "b2", "time"]
+  },
+  {
+    "id": "noun-b2-004",
+    "word": "Vorurteil",
+    "type": "noun",
+    "article": "das",
+    "plural": "Vorurteile",
+    "english": "Prejudice / Bias",
+    "pluralEnglish": "Prejudices",
+    "level": "B2",
+    "category": "Society",
+    "example": {
+      "german": "Offene Gespräche helfen dabei, Vorurteile abzubauen.",
+      "english": "Open conversations help to dismantle prejudices."
+    },
+    "pronunciation": { "ipa": "ˈfoːɐ̯ˌʔʊʁtaɪ̯l" },
+    "tags": ["noun", "b2", "society"]
+  },
+  {
+    "id": "noun-b2-005",
+    "word": "Zuversicht",
+    "type": "noun",
+    "article": "die",
+    "english": "Confidence / Optimism",
+    "level": "B2",
+    "category": "Mind & Feelings",
+    "example": {
+      "german": "Wir blicken mit großer Zuversicht in das kommende Jahr.",
+      "english": "We look forward to the coming year with great confidence."
+    },
+    "pronunciation": { "ipa": "ˈtsuːfɛɐ̯ˌzɪçt" },
+    "tags": ["noun", "b2", "feelings"]
+  },
+  {
+    "id": "noun-b2-006",
+    "word": "Verantwortung",
+    "type": "noun",
+    "article": "die",
+    "plural": "Verantwortungen",
+    "english": "Responsibility",
+    "pluralEnglish": "Responsibilities",
+    "level": "B2",
+    "category": "Career & Ethics",
+    "example": {
+      "german": "Als Projektleiter trägt er die Verantwortung für das Team.",
+      "english": "As project leader, he carries the responsibility for the team."
+    },
+    "pronunciation": { "ipa": "fɛɐ̯ˈʔantvɔʁtʊŋ" },
+    "tags": ["noun", "b2", "work"],
+    "suffixHint": "-ung"
+  },
+  {
+    "id": "noun-b2-007",
+    "word": "Sehnsucht",
+    "type": "noun",
+    "article": "die",
+    "plural": "Sehnsüchte",
+    "english": "Yearning / Longing",
+    "pluralEnglish": "Yearnings",
+    "level": "B2",
+    "category": "Mind & Feelings",
+    "example": {
+      "german": "Er hatte große Sehnsucht nach seiner Heimatstadt.",
+      "english": "He had a deep longing for his hometown."
+    },
+    "pronunciation": { "ipa": "ˈzeːnˌzʊxt" },
+    "tags": ["noun", "b2", "feelings"]
+  },
+  {
+    "id": "noun-b2-008",
+    "word": "Bereitschaft",
+    "type": "noun",
+    "article": "die",
+    "english": "Willingness / Readiness",
+    "level": "B2",
+    "category": "Work & Ethics",
+    "example": {
+      "german": "Ihre Bereitschaft zur Zusammenarbeit wurde sehr geschätzt.",
+      "english": "Her willingness to cooperate was greatly appreciated."
+    },
+    "pronunciation": { "ipa": "bəˈʁaɪ̯tʃaft" },
+    "tags": ["noun", "b2", "work"],
+    "suffixHint": "-schaft"
+  },
+  {
+    "id": "noun-b2-009",
+    "word": "Wohlstand",
+    "type": "noun",
+    "article": "der",
+    "english": "Prosperity / Affluence",
+    "level": "B2",
+    "category": "Society & Economy",
+    "example": {
+      "german": "Bildung ist eine wichtige Voraussetzung für gesellschaftlichen Wohlstand.",
+      "english": "Education is an essential prerequisite for societal prosperity."
+    },
+    "pronunciation": { "ipa": "ˈvoːlˌʃtant" },
+    "tags": ["noun", "b2", "economy"]
+  },
+  {
+    "id": "noun-b2-010",
+    "word": "Vielfalt",
+    "type": "noun",
+    "article": "die",
+    "english": "Diversity / Variety",
+    "level": "B2",
+    "category": "Culture & Society",
+    "example": {
+      "german": "Kulturelle Vielfalt bereichert das städtische Zusammenleben.",
+      "english": "Cultural diversity enriches urban coexistence."
+    },
+    "pronunciation": { "ipa": "ˈfiːlˌfalt" },
+    "tags": ["noun", "b2", "society"]
+  },
+  {
+    "id": "verb-b2-001",
+    "word": "überzeugen",
+    "type": "verb",
+    "english": "To convince / To persuade",
+    "level": "B2",
+    "category": "Communication",
+    "example": {
+      "german": "Seine fundierten Argumente konnten den Vorstand überzeugen.",
+      "english": "His well-founded arguments convinced the executive board."
+    },
+    "pronunciation": { "ipa": "yːbɐˈtsɔɪ̯ɡn̩" },
+    "tags": ["verb", "b2", "communication"],
+    "verbDetails": {
+      "infinitive": "überzeugen",
+      "present3rd": "überzeugt",
+      "pastPerfekt": "hat überzeugt"
+    }
+  },
+  {
+    "id": "verb-b2-002",
+    "word": "bewältigen",
+    "type": "verb",
+    "english": "To overcome / To manage / To master",
+    "level": "B2",
+    "category": "Work & Life",
+    "example": {
+      "german": "Gemeinsam können wir auch schwierige Aufgaben bewältigen.",
+      "english": "Together we can overcome even difficult challenges."
+    },
+    "pronunciation": { "ipa": "bəˈvɛltɪɡn̩" },
+    "tags": ["verb", "b2", "work"],
+    "verbDetails": {
+      "infinitive": "bewältigen",
+      "present3rd": "bewältigt",
+      "pastPerfekt": "hat bewältigt"
+    }
+  },
+  {
+    "id": "adj-b2-001",
+    "word": "zuverlässig",
+    "type": "adjective",
+    "english": "Reliable / Dependable",
+    "level": "B2",
+    "category": "Character & Work",
+    "example": {
+      "german": "Frau Meyer ist eine überaus zuverlässige Kollegin.",
+      "english": "Ms. Meyer is an extraordinarily reliable colleague."
+    },
+    "pronunciation": { "ipa": "ˈtsuːfɛɐ̯ˌlɛsɪç" },
+    "tags": ["adjective", "b2", "work"],
+    "adjectiveDetails": {
+      "comparative": "zuverlässiger",
+      "superlative": "am zuverlässigsten"
+    }
+  },
+  {
+    "id": "adj-b2-002",
+    "word": "eindeutig",
+    "type": "adjective",
+    "english": "Unambiguous / Clear",
+    "level": "B2",
+    "category": "Communication",
+    "example": {
+      "german": "Die Testergebnisse lieferten ein eindeutiges Bild.",
+      "english": "The test results provided an unambiguous picture."
+    },
+    "pronunciation": { "ipa": "ˈaɪ̯nˌdɔɪ̯tɪç" },
+    "tags": ["adjective", "b2", "communication"]
+  }
+]

@@ -1,0 +1,138 @@
+/**
+ * D9W German Language Institute — Dedicated Syllabus Print & PDF Stylesheet
+ * Optimized for A4 Portrait Browser Printing / "Save as PDF"
+ */
+
+@media print {
+  /* 1. Page Geometry & Sizing */
+  @page {
+    size: A4 portrait;
+    margin: 14mm 14mm 14mm 14mm;
+  }
+
+  /* 2. Global Resets for Print */
+  html,
+  body {
+    background: #FFFFFF !important;
+    color: #171717 !important;
+    font-size: 11pt !important;
+    line-height: 1.45 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* 3. Hide all screen-only UI */
+  header,
+  footer,
+  nav,
+  .no-print,
+  .print-hidden,
+  button,
+  [role="tablist"],
+  [role="dialog"] {
+    display: none !important;
+  }
+
+  /* 4. Display the Print Document Container */
+  .screen-only {
+    display: none !important;
+  }
+
+  .print-document {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: #FFFFFF !important;
+  }
+
+  /* 5. Page Breaks & Layout Safeguards */
+  .print-page-break {
+    page-break-after: always !important;
+    break-after: page !important;
+  }
+
+  .print-avoid-break {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  /* 6. Typography Hierarchy in Print */
+  h1, h2, h3, h4 {
+    color: #171717 !important;
+    break-after: avoid !important;
+    page-break-after: avoid !important;
+  }
+
+  h1 {
+    font-size: 22pt !important;
+    line-height: 1.2 !important;
+  }
+
+  h2 {
+    font-size: 16pt !important;
+    line-height: 1.25 !important;
+    border-bottom: 1.5pt solid #171717 !important;
+    padding-bottom: 4pt !important;
+    margin-top: 14pt !important;
+    margin-bottom: 8pt !important;
+  }
+
+  h3 {
+    font-size: 13pt !important;
+    line-height: 1.3 !important;
+    margin-top: 10pt !important;
+    margin-bottom: 4pt !important;
+  }
+
+  h4 {
+    font-size: 11pt !important;
+    margin-top: 6pt !important;
+    margin-bottom: 2pt !important;
+  }
+
+  p, li {
+    color: #333333 !important;
+    font-size: 10pt !important;
+  }
+
+  /* 7. Print Borders & Shadows */
+  .skeuo-paper,
+  .skeuo-paper-stacked,
+  .skeuo-flashcard,
+  .skeuo-recessed {
+    box-shadow: none !important;
+    border: 1pt solid #DEDAD1 !important;
+    background: #FFFFFF !important;
+  }
+
+  /* 8. Links in Print */
+  a {
+    color: #171717 !important;
+    text-decoration: none !important;
+  }
+
+  /* 9. Header & Footer Markers */
+  .print-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-top: 6pt;
+    border-top: 0.75pt solid #DEDAD1;
+    font-size: 8pt;
+    color: #89857E;
+    display: flex !important;
+    justify-content: space-between;
+  }
+}
+
+/* Screen Mode Defaults for Print Document: hidden on screen, visible only when printing */
+@media screen {
+  .print-document {
+    display: none;
+  }
+}

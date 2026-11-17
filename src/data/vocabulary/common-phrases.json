@@ -1,0 +1,170 @@
+[
+  {
+    "id": "phrase-001",
+    "word": "Guten Tag",
+    "type": "phrase",
+    "english": "Good day / Hello",
+    "level": "A1",
+    "category": "Greetings",
+    "example": {
+      "german": "Guten Tag! Mein Name ist Thomas Meyer.",
+      "english": "Good day! My name is Thomas Meyer."
+    },
+    "pronunciation": { "ipa": "ˌɡuːtn̩ ˈtaːk" },
+    "tags": ["phrase", "a1", "greeting", "formal"]
+  },
+  {
+    "id": "phrase-002",
+    "word": "Guten Morgen",
+    "type": "phrase",
+    "english": "Good morning",
+    "level": "A1",
+    "category": "Greetings",
+    "example": {
+      "german": "Guten Morgen, Frau Schneider!",
+      "english": "Good morning, Mrs. Schneider!"
+    },
+    "pronunciation": { "ipa": "ˌɡuːtn̩ ˈmɔʁɡn̩" },
+    "tags": ["phrase", "a1", "greeting"]
+  },
+  {
+    "id": "phrase-003",
+    "word": "Guten Abend",
+    "type": "phrase",
+    "english": "Good evening",
+    "level": "A1",
+    "category": "Greetings",
+    "example": {
+      "german": "Guten Abend, meine Damen und Herren!",
+      "english": "Good evening, ladies and gentlemen!"
+    },
+    "pronunciation": { "ipa": "ˌɡuːtn̩ ˈaːbn̩t" },
+    "tags": ["phrase", "a1", "greeting"]
+  },
+  {
+    "id": "phrase-004",
+    "word": "Auf Wiedersehen",
+    "type": "phrase",
+    "english": "Goodbye (formal)",
+    "level": "A1",
+    "category": "Farewells",
+    "example": {
+      "german": "Vielen Dank für Ihre Hilfe und auf Wiedersehen!",
+      "english": "Thank you very much for your help, and goodbye!"
+    },
+    "pronunciation": { "ipa": "aʊ̯f ˈviːdɐˌzeːən" },
+    "tags": ["phrase", "a1", "farewell", "formal"]
+  },
+  {
+    "id": "phrase-005",
+    "word": "Tschüss",
+    "type": "phrase",
+    "english": "Bye / See you (informal)",
+    "level": "A1",
+    "category": "Farewells",
+    "example": {
+      "german": "Tschüss, bis morgen!",
+      "english": "Bye, see you tomorrow!"
+    },
+    "pronunciation": { "ipa": "t͡ʃʏs" },
+    "tags": ["phrase", "a1", "farewell", "informal"]
+  },
+  {
+    "id": "phrase-006",
+    "word": "Wie geht es Ihnen?",
+    "type": "phrase",
+    "english": "How are you? (formal)",
+    "level": "A1",
+    "category": "Politeness",
+    "example": {
+      "german": "Guten Tag, Herr Keller! Wie geht es Ihnen?",
+      "english": "Good day, Mr. Keller! How are you?"
+    },
+    "pronunciation": { "ipa": "viː ɡeːt ɛs ˈiːnən" },
+    "tags": ["phrase", "a1", "politeness", "formal"]
+  },
+  {
+    "id": "phrase-007",
+    "word": "Danke schön",
+    "type": "phrase",
+    "english": "Thank you very much",
+    "level": "A1",
+    "category": "Politeness",
+    "example": {
+      "german": "Danke schön für die freundliche Einladung.",
+      "english": "Thank you very much for the kind invitation."
+    },
+    "pronunciation": { "ipa": "ˈdaŋkə ʃøːn" },
+    "tags": ["phrase", "a1", "politeness"]
+  },
+  {
+    "id": "phrase-008",
+    "word": "Bitte sehr",
+    "type": "phrase",
+    "english": "You're very welcome / Here you go",
+    "level": "A1",
+    "category": "Politeness",
+    "example": {
+      "german": "Bitte sehr, Ihr Kaffee!",
+      "english": "Here you go, your coffee!"
+    },
+    "pronunciation": { "ipa": "ˈbɪtə zeːɐ̯" },
+    "tags": ["phrase", "a1", "politeness"]
+  },
+  {
+    "id": "phrase-009",
+    "word": "Entschuldigung",
+    "type": "phrase",
+    "english": "Excuse me / Sorry",
+    "level": "A1",
+    "category": "Politeness",
+    "example": {
+      "german": "Entschuldigung, wo ist der Bahnhof?",
+      "english": "Excuse me, where is the train station?"
+    },
+    "pronunciation": { "ipa": "ɛntˈʃʊldɪɡʊŋ" },
+    "tags": ["phrase", "a1", "politeness"]
+  },
+  {
+    "id": "phrase-010",
+    "word": "Ich weiß nicht",
+    "type": "phrase",
+    "english": "I don't know",
+    "level": "A1",
+    "category": "Communication",
+    "example": {
+      "german": "Ich weiß nicht, wann der nächste Bus kommt.",
+      "english": "I don't know when the next bus is coming."
+    },
+    "pronunciation": { "ipa": "ɪç vaɪ̯s nɪçt" },
+    "tags": ["phrase", "a1", "communication"]
+  },
+  {
+    "id": "phrase-011",
+    "word": "Es tut mir leid",
+    "type": "phrase",
+    "english": "I am sorry",
+    "level": "A1",
+    "category": "Politeness",
+    "example": {
+      "german": "Es tut mir leid, ich habe mich verspätet.",
+      "english": "I am sorry, I am late."
+    },
+    "pronunciation": { "ipa": "ɛs tuːt miːɐ̯ laɪ̯t" },
+    "tags": ["phrase", "a1", "politeness"]
+  },
+  {
+    "id": "phrase-012",
+    "word": "Alles Gute",
+    "type": "phrase",
+    "english": "All the best",
+    "level": "A1",
+    "category": "Wishes",
+    "example": {
+      "german": "Alles Gute zum Geburtstag!",
+      "english": "All the best for your birthday!"
+    },
+    "pronunciation": { "ipa": "ˈaləs ˈɡuːtə" },
+    "tags": ["phrase", "a1", "wishes"]
+  }
+]

@@ -1,0 +1,43 @@
+export const homeDe = {
+  hero: {
+    badge: 'GER A1–C1 Zertifizierte Lehrpläne',
+    title1: 'Deutsch meistern mit',
+    titleHighlight: 'Linguistischer Präzision',
+    title2: 'und gelebter Praxis.',
+    subtitle: 'Spezialisierte Deutschkurse in Madurai für Studierende, medizinisches Personal, Ingenieure und Visumbewerber. Strukturierte GER-Ausbildung, interaktiver Live-Unterricht und moderne Lernwerkzeuge.',
+    primaryCta: 'Kostenlose Probestunde buchen',
+    secondaryCta: 'Alle Kurse entdecken',
+    trust1: 'Gezielte Prüfungsvorbereitung',
+    trust2: 'Kleine Lerngruppen (Max. 14–16)',
+    trust3: 'Campus Madurai & Live-Online',
+  },
+  coursesSection: {
+    eyebrow: 'STRUKTURIERTER GER-LEHRPLAN',
+    title: 'Vom Einstieg bis zur verhandlungssicheren Fachsprache',
+    subtitle: 'Unser 5-Stufen-Modell entspricht exakt den Anforderungen des Goethe-Zertifikats, telc und TestDaF. Wählen Sie eine Stufe für detaillierte Lehrpläne und Lernziele.',
+    viewComparison: 'Alle Stufen im Detail vergleichen →',
+  },
+  learningHubSection: {
+    eyebrow: 'INTERAKTIVE DIGITALE WERKZEUGE',
+    title: 'Sprachkompetenz vertiefen mit 10 kostenlosen Werkzeugen',
+    subtitle: 'Festigen Sie Grammatik, erweitern Sie Ihren Wortschatz und trainieren Sie Prüfungsformate mit unseren Übungsanwendungen.',
+    exploreHub: 'Zum kostenlosen Lernportal →',
+  },
+  methodologySection: {
+    eyebrow: 'WARUM DAS D9W INSTITUT',
+    title: 'Grammatikalische Präzision trifft praktische Sprachpraxis',
+    subtitle: 'Kombination aus fundierter traditioneller Sprachlehre und zeitgemäßer europäischer Kommunikationsdidaktik.',
+    pillar1Title: 'Strikte GER-Ausrichtung',
+    pillar1Desc: 'Jedes Unterrichtsmodul orientiert sich an europäischen Standards für Hochschulzulassung, Approbation und Fachkräftevisa.',
+    pillar2Title: 'Intensive Kleingruppen',
+    pillar2Desc: 'Feste Höchstteilnehmerzahlen sichern tägliches Sprechtraining, Aussprachecoaching und individuelle Textkorrekturen.',
+    pillar3Title: 'Integriertes Lernkonzept',
+    pillar3Desc: 'Der Unterricht wird durch unsere institutseigenen Digitaltrainer für Kasuslehre, Artikel, Hörverstehen und Lesetechniken ergänzt.',
+  },
+  ctaSection: {
+    title: 'Starten Sie Ihren Deutschkurs mit bester Vorbereitung',
+    subtitle: 'Vereinbaren Sie eine persönliche Beratung oder nehmen Sie an einer kostenlosen Probestunde unseres Dozententeams teil.',
+    bookDemo: 'Kostenlose Probestunde buchen',
+    whatsappConsult: 'WhatsApp-Beratung',
+  },
+}
